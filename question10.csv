@@ -1,0 +1,3393 @@
+Junction,Direction,Speed (mph),Time,Day
+1 to 2,Northbound,63,08:00,Monday
+1 to 2,Southbound,9,08:00,Monday
+2 to 4,Northbound,67,08:00,Monday
+2 to 4,Southbound,34,08:00,Monday
+4 to 5,Northbound,68,08:00,Monday
+4 to 5,Southbound,64,08:00,Monday
+5 to 6,Northbound,68,08:00,Monday
+5 to 6,Southbound,39,08:00,Monday
+6 to 6A,Northbound,65,08:00,Monday
+6 to 6A,Southbound,66,08:00,Monday
+6A to 7,Northbound,61,08:00,Monday
+6A to 7,Southbound,60,08:00,Monday
+7 to 8,Northbound,57,08:00,Monday
+7 to 8,Southbound,58,08:00,Monday
+8 to 9,Northbound,62,08:00,Monday
+ 8 to 9,Southbound,41,08:00,Monday
+9 to 10,Northbound,58,08:00,Monday
+9 to 10,Southbound,27,08:00,Monday
+10 to 11,Northbound,51,08:00,Monday
+10 to 11,Southbound,38,08:00,Monday
+11 to 11A,Northbound,51,08:00,Monday
+11 to 11A,Southbound,17,08:00,Monday
+11A to 12,Northbound,48,08:00,Monday
+11A to 12,Southbound,14,08:00,Monday
+12 to 13,Northbound,50,08:00,Monday
+12 to 13,Southbound,48,08:00,Monday
+13 to14,Northbound,64,08:00,Monday
+13 to14,Southbound,61,08:00,Monday
+14 to 15,Northbound,64,08:00,Monday
+14 to15,Southbound,62,08:00,Monday
+15 to 15A,Northbound,68,08:00,Monday
+15 to 15A,Southbound,65,08:00,Monday
+15A to 16,Northbound,67,08:00,Monday
+15A to 16,Southbound,65,08:00,Monday
+16 to 17,Northbound,67,08:00,Monday
+16 to 17,Southbound,65,08:00,Monday
+17 to 18,Northbound,63,08:00,Monday
+17 to 18,Southbound,58,08:00,Monday
+18 to 19,Northbound,58,08:00,Monday
+18 to 19,Southbound,57,08:00,Monday
+19 to 20,Northbound,57,08:00,Monday
+19 to 20,Southbound,58,08:00,Monday
+20 to 21,Northbound,63,08:00,Monday
+20 to 21,Southbound,64,08:00,Monday
+21 to 21A,Northbound,30,08:00,Monday
+21 to 21A,Southbound,32,08:00,Monday
+21A to 22,Northbound,60,08:00,Monday
+21A to 22,Southbound,23,08:00,Monday
+22 to 23,Northbound,66,08:00,Monday
+22 to 23,Southbound,57,08:00,Monday
+23 to 23A,Northbound,61,08:00,Monday
+23 to 23A,Southbound,61,08:00,Monday
+23A to 24,Northbound,61,08:00,Monday
+23A to 24,Southbound,52,08:00,Monday
+24 to 24A,Northbound,62,08:00,Monday
+24 to 24A,Southbound,41,08:00,Monday
+24A to 25,Northbound,61,08:00,Monday
+24A to 25,Southbound,53,08:00,Monday
+25 to 26,Northbound,64,08:00,Monday
+25 to 26,Southbound,62,08:00,Monday
+26 to 27,Northbound,65,08:00,Monday
+26 to 27,Southbound,62,08:00,Monday
+27 to 28,Northbound,59,08:00,Monday
+27 to 28,Southbound,63,08:00,Monday
+28 to 29,Northbound,62,08:00,Monday
+28 to 29,Southbound,64,08:00,Monday
+29 to 29A,Northbound,52,08:00,Monday
+29 to 29A,Southbound,44,08:00,Monday
+29A to 30,Northbound,38,08:00,Monday
+29A to 30,Southbound,12,08:00,Monday
+30 to 31,Northbound,50,08:00,Monday
+30 to 31,Southbound,21,08:00,Monday
+31 to 32,Northbound,41,08:00,Monday
+31 to 32,Southbound,35,08:00,Monday
+32 to 33,Northbound,28,08:00,Monday
+32 to 33,Southbound,44,08:00,Monday
+33 to 34,Northbound,47,08:00,Monday
+33 to 34,Southbound,45,08:00,Monday
+34 to 35,Northbound,48,08:00,Monday
+34 to 35,Southbound,46,08:00,Monday
+35 to 35A,Northbound,61,08:00,Monday
+35 to 35A,Southbound,36,08:00,Monday
+35A to 36,Northbound,64,08:00,Monday
+35A to 36,Southbound,23,08:00,Monday
+36 to 37,Northbound,61,08:00,Monday
+36 to 37,Southbound,27,08:00,Monday
+37 to 38,Northbound,63,08:00,Monday
+37 to 38,Southbound,55,08:00,Monday
+38 to 39,Northbound,59,08:00,Monday
+38 to 39,Southbound,61,08:00,Monday
+39 to 40,Northbound,57,08:00,Monday
+39 to 40,Southbound,63,08:00,Monday
+40 to 41,Northbound,55,08:00,Monday
+40 to 41,Southbound,61,08:00,Monday
+41 to 42,Northbound,49,08:00,Monday
+41 to 42,Southbound,62,08:00,Monday
+42 to 43/44,Northbound,31,08:00,Monday
+42 to 43/44,Southbound,60,08:00,Monday
+43/44 to 45,Northbound,14,08:00,Monday
+43/44 to 45,Southbound,60,08:00,Monday
+45 to 46,Northbound,27,08:00,Monday
+45 to 46,Southbound,43,08:00,Monday
+46 to 47,Northbound,47,08:00,Monday
+46 to 47,Southbound,15,08:00,Monday
+47 to 48,Northbound,50,08:00,Monday
+47 to 48,Southbound,14,08:00,Monday
+1 to 2,Northbound,60,13:00,Monday
+1 to 2,Southbound,59,13:00,Monday
+2 to 4,Northbound,66,13:00,Monday
+2 to 4,Southbound,68,13:00,Monday
+4 to 5,Northbound,70,13:00,Monday
+4 to 5,Southbound,67,13:00,Monday
+5 to 6,Northbound,65,13:00,Monday
+5 to 6,Southbound,65,13:00,Monday
+6 to 6A,Northbound,66,13:00,Monday
+6 to 6A,Southbound,69,13:00,Monday
+6A to 7,Northbound,62,13:00,Monday
+6A to 7,Southbound,39,13:00,Monday
+7 to 8,Northbound,58,13:00,Monday
+7 to 8,Southbound,43,13:00,Monday
+8 to 9,Northbound,61,13:00,Monday
+ 8 to 9,Southbound,59,13:00,Monday
+9 to 10,Northbound,57,13:00,Monday
+9 to 10,Southbound,58,13:00,Monday
+10 to 11,Northbound,52,13:00,Monday
+10 to 11,Southbound,44,13:00,Monday
+11 to 11A,Northbound,50,13:00,Monday
+11 to 11A,Southbound,32,13:00,Monday
+11A to 12,Northbound,53,13:00,Monday
+11A to 12,Southbound,51,13:00,Monday
+12 to 13,Northbound,51,13:00,Monday
+12 to 13,Southbound,53,13:00,Monday
+13 to14,Northbound,62,13:00,Monday
+13 to14,Southbound,61,13:00,Monday
+14 to 15,Northbound,63,13:00,Monday
+14 to15,Southbound,66,13:00,Monday
+15 to 15A,Northbound,65,13:00,Monday
+15 to 15A,Southbound,62,13:00,Monday
+15A to 16,Northbound,68,13:00,Monday
+15A to 16,Southbound,63,13:00,Monday
+16 to 17,Northbound,68,13:00,Monday
+16 to 17,Southbound,63,13:00,Monday
+17 to 18,Northbound,68,13:00,Monday
+17 to 18,Southbound,59,13:00,Monday
+18 to 19,Northbound,65,13:00,Monday
+18 to 19,Southbound,66,13:00,Monday
+19 to 20,Northbound,67,13:00,Monday
+19 to 20,Southbound,68,13:00,Monday
+20 to 21,Northbound,70,13:00,Monday
+20 to 21,Southbound,69,13:00,Monday
+21 to 21A,Northbound,62,13:00,Monday
+21 to 21A,Southbound,62,13:00,Monday
+21A to 22,Northbound,64,13:00,Monday
+21A to 22,Southbound,69,13:00,Monday
+22 to 23,Northbound,65,13:00,Monday
+22 to 23,Southbound,65,13:00,Monday
+23 to 23A,Northbound,69,13:00,Monday
+23 to 23A,Southbound,65,13:00,Monday
+23A to 24,Northbound,70,13:00,Monday
+23A to 24,Southbound,59,13:00,Monday
+24 to 24A,Northbound,68,13:00,Monday
+24 to 24A,Southbound,60,13:00,Monday
+24A to 25,Northbound,66,13:00,Monday
+24A to 25,Southbound,59,13:00,Monday
+25 to 26,Northbound,64,13:00,Monday
+25 to 26,Southbound,62,13:00,Monday
+26 to 27,Northbound,64,13:00,Monday
+26 to 27,Southbound,63,13:00,Monday
+27 to 28,Northbound,63,13:00,Monday
+27 to 28,Southbound,66,13:00,Monday
+28 to 29,Northbound,65,13:00,Monday
+28 to 29,Southbound,65,13:00,Monday
+29 to 29A,Northbound,67,13:00,Monday
+29 to 29A,Southbound,62,13:00,Monday
+29A to 30,Northbound,60,13:00,Monday
+29A to 30,Southbound,63,13:00,Monday
+30 to 31,Northbound,51,13:00,Monday
+30 to 31,Southbound,54,13:00,Monday
+31 to 32,Northbound,57,13:00,Monday
+31 to 32,Southbound,54,13:00,Monday
+32 to 33,Northbound,49,13:00,Monday
+32 to 33,Southbound,50,13:00,Monday
+33 to 34,Northbound,48,13:00,Monday
+33 to 34,Southbound,49,13:00,Monday
+34 to 35,Northbound,47,13:00,Monday
+34 to 35,Southbound,47,13:00,Monday
+35 to 35A,Northbound,53,13:00,Monday
+35 to 35A,Southbound,50,13:00,Monday
+35A to 36,Northbound,61,13:00,Monday
+35A to 36,Southbound,60,13:00,Monday
+36 to 37,Northbound,64,13:00,Monday
+36 to 37,Southbound,65,13:00,Monday
+37 to 38,Northbound,64,13:00,Monday
+37 to 38,Southbound,66,13:00,Monday
+38 to 39,Northbound,68,13:00,Monday
+38 to 39,Southbound,67,13:00,Monday
+39 to 40,Northbound,61,13:00,Monday
+39 to 40,Southbound,67,13:00,Monday
+40 to 41,Northbound,63,13:00,Monday
+40 to 41,Southbound,67,13:00,Monday
+41 to 42,Northbound,66,13:00,Monday
+41 to 42,Southbound,63,13:00,Monday
+42 to 43/44,Northbound,66,13:00,Monday
+42 to 43/44,Southbound,63,13:00,Monday
+43/44 to 45,Northbound,66,13:00,Monday
+43/44 to 45,Southbound,65,13:00,Monday
+45 to 46,Northbound,47,13:00,Monday
+45 to 46,Southbound,57,13:00,Monday
+46 to 47,Northbound,48,13:00,Monday
+46 to 47,Southbound,48,13:00,Monday
+47 to 48,Northbound,58,13:00,Monday
+47 to 48,Southbound,50,13:00,Monday
+1 to 2,Northbound,64,18:00,Monday
+1 to 2,Southbound,58,18:00,Monday
+2 to 4,Northbound,70,18:00,Monday
+2 to 4,Southbound,70,18:00,Monday
+4 to 5,Northbound,70,18:00,Monday
+4 to 5,Southbound,70,18:00,Monday
+5 to 6,Northbound,65,18:00,Monday
+5 to 6,Southbound,70,18:00,Monday
+6 to 6A,Northbound,68,18:00,Monday
+6 to 6A,Southbound,70,18:00,Monday
+6A to 7,Northbound,65,18:00,Monday
+6A to 7,Southbound,61,18:00,Monday
+7 to 8,Northbound,52,18:00,Monday
+7 to 8,Southbound,57,18:00,Monday
+8 to 9,Northbound,54,18:00,Monday
+ 8 to 9,Southbound,61,18:00,Monday
+9 to 10,Northbound,26,18:00,Monday
+9 to 10,Southbound,61,18:00,Monday
+10 to 11,Northbound,39,18:00,Monday
+10 to 11,Southbound,48,18:00,Monday
+11 to 11A,Northbound,48,18:00,Monday
+11 to 11A,Southbound,48,18:00,Monday
+11A to 12,Northbound,49,18:00,Monday
+11A to 12,Southbound,48,18:00,Monday
+12 to 13,Northbound,51,18:00,Monday
+12 to 13,Southbound,18,18:00,Monday
+13 to14,Northbound,66,18:00,Monday
+13 to14,Southbound,42,18:00,Monday
+14 to 15,Northbound,65,18:00,Monday
+14 to15,Southbound,67,18:00,Monday
+15 to 15A,Northbound,67,18:00,Monday
+15 to 15A,Southbound,66,18:00,Monday
+15A to 16,Northbound,66,18:00,Monday
+15A to 16,Southbound,66,18:00,Monday
+16 to 17,Northbound,69,18:00,Monday
+16 to 17,Southbound,67,18:00,Monday
+17 to 18,Northbound,69,18:00,Monday
+17 to 18,Southbound,64,18:00,Monday
+18 to 19,Northbound,65,18:00,Monday
+18 to 19,Southbound,66,18:00,Monday
+19 to 20,Northbound,68,18:00,Monday
+19 to 20,Southbound,68,18:00,Monday
+20 to 21,Northbound,70,18:00,Monday
+20 to 21,Southbound,70,18:00,Monday
+21 to 21A,Northbound,60,18:00,Monday
+21 to 21A,Southbound,65,18:00,Monday
+21A to 22,Northbound,70,18:00,Monday
+21A to 22,Southbound,70,18:00,Monday
+22 to 23,Northbound,70,18:00,Monday
+22 to 23,Southbound,68,18:00,Monday
+23 to 23A,Northbound,69,18:00,Monday
+23 to 23A,Southbound,70,18:00,Monday
+23A to 24,Northbound,66,18:00,Monday
+23A to 24,Southbound,67,18:00,Monday
+24 to 24A,Northbound,67,18:00,Monday
+24 to 24A,Southbound,70,18:00,Monday
+24A to 25,Northbound,67,18:00,Monday
+24A to 25,Southbound,69,18:00,Monday
+25 to 26,Northbound,69,18:00,Monday
+25 to 26,Southbound,68,18:00,Monday
+26 to 27,Northbound,69,18:00,Monday
+26 to 27,Southbound,70,18:00,Monday
+27 to 28,Northbound,70,18:00,Monday
+27 to 28,Southbound,68,18:00,Monday
+28 to 29,Northbound,70,18:00,Monday
+28 to 29,Southbound,66,18:00,Monday
+29 to 29A,Northbound,70,18:00,Monday
+29 to 29A,Southbound,59,18:00,Monday
+29A to 30,Northbound,62,18:00,Monday
+29A to 30,Southbound,60,18:00,Monday
+30 to 31,Northbound,50,18:00,Monday
+30 to 31,Southbound,51,18:00,Monday
+31 to 32,Northbound,63,18:00,Monday
+31 to 32,Southbound,52,18:00,Monday
+32 to 33,Northbound,48,18:00,Monday
+32 to 33,Southbound,53,18:00,Monday
+33 to 34,Northbound,48,18:00,Monday
+33 to 34,Southbound,49,18:00,Monday
+34 to 35,Northbound,49,18:00,Monday
+34 to 35,Southbound,15,18:00,Monday
+35 to 35A,Northbound,61,18:00,Monday
+35 to 35A,Southbound,12,18:00,Monday
+35A to 36,Northbound,70,18:00,Monday
+35A to 36,Southbound,58,18:00,Monday
+36 to 37,Northbound,70,18:00,Monday
+36 to 37,Southbound,67,18:00,Monday
+37 to 38,Northbound,70,18:00,Monday
+37 to 38,Southbound,67,18:00,Monday
+38 to 39,Northbound,70,18:00,Monday
+38 to 39,Southbound,70,18:00,Monday
+39 to 40,Northbound,69,18:00,Monday
+39 to 40,Southbound,66,18:00,Monday
+40 to 41,Northbound,68,18:00,Monday
+40 to 41,Southbound,66,18:00,Monday
+41 to 42,Northbound,67,18:00,Monday
+41 to 42,Southbound,69,18:00,Monday
+42 to 43/44,Northbound,67,18:00,Monday
+42 to 43/44,Southbound,66,18:00,Monday
+43/44 to 45,Northbound,25,18:00,Monday
+43/44 to 45,Southbound,66,18:00,Monday
+45 to 46,Northbound,30,18:00,Monday
+45 to 46,Southbound,58,18:00,Monday
+46 to 47,Northbound,48,18:00,Monday
+46 to 47,Southbound,46,18:00,Monday
+47 to 48,Northbound,57,18:00,Monday
+47 to 48,Southbound,47,18:00,Monday
+1 to 2,Northbound,64,22:00,Monday
+1 to 2,Southbound,57,22:00,Monday
+2 to 4,Northbound,63,22:00,Monday
+2 to 4,Southbound,64,22:00,Monday
+4 to 5,Northbound,62,22:00,Monday
+4 to 5,Southbound,63,22:00,Monday
+5 to 6,Northbound,62,22:00,Monday
+5 to 6,Southbound,61,22:00,Monday
+6 to 6A,Northbound,59,22:00,Monday
+6 to 6A,Southbound,54,22:00,Monday
+6A to 7,Northbound,61,22:00,Monday
+6A to 7,Southbound,61,22:00,Monday
+7 to 8,Northbound,57,22:00,Monday
+7 to 8,Southbound,57,22:00,Monday
+8 to 9,Northbound,64,22:00,Monday
+ 8 to 9,Southbound,62,22:00,Monday
+9 to 10,Northbound,55,22:00,Monday
+9 to 10,Southbound,60,22:00,Monday
+10 to 11,Northbound,48,22:00,Monday
+10 to 11,Southbound,51,22:00,Monday
+11 to 11A,Northbound,46,22:00,Monday
+11 to 11A,Southbound,52,22:00,Monday
+11A to 12,Northbound,49,22:00,Monday
+11A to 12,Southbound,53,22:00,Monday
+12 to 13,Northbound,48,22:00,Monday
+12 to 13,Southbound,52,22:00,Monday
+13 to14,Northbound,53,22:00,Monday
+13 to14,Southbound,52,22:00,Monday
+14 to 15,Northbound,62,22:00,Monday
+14 to15,Southbound,58,22:00,Monday
+15 to 15A,Northbound,67,22:00,Monday
+15 to 15A,Southbound,64,22:00,Monday
+15A to 16,Northbound,64,22:00,Monday
+15A to 16,Southbound,67,22:00,Monday
+16 to 17,Northbound,64,22:00,Monday
+16 to 17,Southbound,64,22:00,Monday
+17 to 18,Northbound,65,22:00,Monday
+17 to 18,Southbound,42,22:00,Monday
+18 to 19,Northbound,61,22:00,Monday
+18 to 19,Southbound,54,22:00,Monday
+19 to 20,Northbound,62,22:00,Monday
+19 to 20,Southbound,52,22:00,Monday
+20 to 21,Northbound,54,22:00,Monday
+20 to 21,Southbound,61,22:00,Monday
+21 to 21A,Northbound,59,22:00,Monday
+21 to 21A,Southbound,60,22:00,Monday
+21A to 22,Northbound,57,22:00,Monday
+21A to 22,Southbound,67,22:00,Monday
+22 to 23,Northbound,58,22:00,Monday
+22 to 23,Southbound,62,22:00,Monday
+23 to 23A,Northbound,67,22:00,Monday
+23 to 23A,Southbound,59,22:00,Monday
+23A to 24,Northbound,69,22:00,Monday
+23A to 24,Southbound,51,22:00,Monday
+24 to 24A,Northbound,69,22:00,Monday
+24 to 24A,Southbound,53,22:00,Monday
+24A to 25,Northbound,65,22:00,Monday
+24A to 25,Southbound,58,22:00,Monday
+25 to 26,Northbound,60,22:00,Monday
+25 to 26,Southbound,60,22:00,Monday
+26 to 27,Northbound,59,22:00,Monday
+26 to 27,Southbound,62,22:00,Monday
+27 to 28,Northbound,56,22:00,Monday
+27 to 28,Southbound,56,22:00,Monday
+28 to 29,Northbound,58,22:00,Monday
+28 to 29,Southbound,56,22:00,Monday
+29 to 29A,Northbound,41,22:00,Monday
+29 to 29A,Southbound,55,22:00,Monday
+29A to 30,Northbound,32,22:00,Monday
+29A to 30,Southbound,54,22:00,Monday
+30 to 31,Northbound,49,22:00,Monday
+30 to 31,Southbound,50,22:00,Monday
+31 to 32,Northbound,57,22:00,Monday
+31 to 32,Southbound,50,22:00,Monday
+32 to 33,Northbound,49,22:00,Monday
+32 to 33,Southbound,50,22:00,Monday
+33 to 34,Northbound,49,22:00,Monday
+33 to 34,Southbound,52,22:00,Monday
+34 to 35,Northbound,50,22:00,Monday
+34 to 35,Southbound,48,22:00,Monday
+35 to 35A,Northbound,56,22:00,Monday
+35 to 35A,Southbound,48,22:00,Monday
+35A to 36,Northbound,63,22:00,Monday
+35A to 36,Southbound,59,22:00,Monday
+36 to 37,Northbound,62,22:00,Monday
+36 to 37,Southbound,58,22:00,Monday
+37 to 38,Northbound,55,22:00,Monday
+37 to 38,Southbound,59,22:00,Monday
+38 to 39,Northbound,60,22:00,Monday
+38 to 39,Southbound,57,22:00,Monday
+39 to 40,Northbound,59,22:00,Monday
+39 to 40,Southbound,49,22:00,Monday
+40 to 41,Northbound,66,22:00,Monday
+40 to 41,Southbound,57,22:00,Monday
+41 to 42,Northbound,61,22:00,Monday
+41 to 42,Southbound,66,22:00,Monday
+42 to 43/44,Northbound,57,22:00,Monday
+42 to 43/44,Southbound,60,22:00,Monday
+43/44 to 45,Northbound,65,22:00,Monday
+43/44 to 45,Southbound,62,22:00,Monday
+45 to 46,Northbound,54,22:00,Monday
+45 to 46,Southbound,58,22:00,Monday
+46 to 47,Northbound,49,22:00,Monday
+46 to 47,Southbound,44,22:00,Monday
+47 to 48,Northbound,58,22:00,Monday
+47 to 48,Southbound,49,22:00,Monday
+1 to 2,Northbound,67,08:00,Tuesday
+1 to 2,Southbound,53,08:00,Tuesday
+2 to 4,Northbound,68,08:00,Tuesday
+2 to 4,Southbound,65,08:00,Tuesday
+4 to 5,Northbound,67,08:00,Tuesday
+4 to 5,Southbound,49,08:00,Tuesday
+5 to 6,Northbound,69,08:00,Tuesday
+5 to 6,Southbound,32,08:00,Tuesday
+6 to 6A,Northbound,70,08:00,Tuesday
+6 to 6A,Southbound,41,08:00,Tuesday
+6A to 7,Northbound,57,08:00,Tuesday
+6A to 7,Southbound,55,08:00,Tuesday
+7 to 8,Northbound,50,08:00,Tuesday
+7 to 8,Southbound,55,08:00,Tuesday
+8 to 9,Northbound,60,08:00,Tuesday
+ 8 to 9,Southbound,39,08:00,Tuesday
+9 to 10,Northbound,51,08:00,Tuesday
+9 to 10,Southbound,36,08:00,Tuesday
+10 to 11,Northbound,46,08:00,Tuesday
+10 to 11,Southbound,35,08:00,Tuesday
+11 to 11A,Northbound,50,08:00,Tuesday
+11 to 11A,Southbound,18,08:00,Tuesday
+11A to 12,Northbound,49,08:00,Tuesday
+11A to 12,Southbound,12,08:00,Tuesday
+12 to 13,Northbound,43,08:00,Tuesday
+12 to 13,Southbound,43,08:00,Tuesday
+13 to14,Northbound,64,08:00,Tuesday
+13 to14,Southbound,55,08:00,Tuesday
+14 to 15,Northbound,62,08:00,Tuesday
+14 to15,Southbound,57,08:00,Tuesday
+15 to 15A,Northbound,65,08:00,Tuesday
+15 to 15A,Southbound,62,08:00,Tuesday
+15A to 16,Northbound,65,08:00,Tuesday
+15A to 16,Southbound,63,08:00,Tuesday
+16 to 17,Northbound,63,08:00,Tuesday
+16 to 17,Southbound,62,08:00,Tuesday
+17 to 18,Northbound,63,08:00,Tuesday
+17 to 18,Southbound,66,08:00,Tuesday
+18 to 19,Northbound,58,08:00,Tuesday
+18 to 19,Southbound,61,08:00,Tuesday
+19 to 20,Northbound,57,08:00,Tuesday
+19 to 20,Southbound,69,08:00,Tuesday
+20 to 21,Northbound,61,08:00,Tuesday
+20 to 21,Southbound,65,08:00,Tuesday
+21 to 21A,Northbound,55,08:00,Tuesday
+21 to 21A,Southbound,33,08:00,Tuesday
+21A to 22,Northbound,58,08:00,Tuesday
+21A to 22,Southbound,27,08:00,Tuesday
+22 to 23,Northbound,61,08:00,Tuesday
+22 to 23,Southbound,57,08:00,Tuesday
+23 to 23A,Northbound,58,08:00,Tuesday
+23 to 23A,Southbound,61,08:00,Tuesday
+23A to 24,Northbound,52,08:00,Tuesday
+23A to 24,Southbound,52,08:00,Tuesday
+24 to 24A,Northbound,60,08:00,Tuesday
+24 to 24A,Southbound,26,08:00,Tuesday
+24A to 25,Northbound,61,08:00,Tuesday
+24A to 25,Southbound,53,08:00,Tuesday
+25 to 26,Northbound,60,08:00,Tuesday
+25 to 26,Southbound,31,08:00,Tuesday
+26 to 27,Northbound,64,08:00,Tuesday
+26 to 27,Southbound,60,08:00,Tuesday
+27 to 28,Northbound,62,08:00,Tuesday
+27 to 28,Southbound,61,08:00,Tuesday
+28 to 29,Northbound,63,08:00,Tuesday
+28 to 29,Southbound,52,08:00,Tuesday
+29 to 29A,Northbound,51,08:00,Tuesday
+29 to 29A,Southbound,66,08:00,Tuesday
+29A to 30,Northbound,32,08:00,Tuesday
+29A to 30,Southbound,51,08:00,Tuesday
+30 to 31,Northbound,51,08:00,Tuesday
+30 to 31,Southbound,48,08:00,Tuesday
+31 to 32,Northbound,37,08:00,Tuesday
+31 to 32,Southbound,52,08:00,Tuesday
+32 to 33,Northbound,31,08:00,Tuesday
+32 to 33,Southbound,53,08:00,Tuesday
+33 to 34,Northbound,48,08:00,Tuesday
+33 to 34,Southbound,49,08:00,Tuesday
+34 to 35,Northbound,48,08:00,Tuesday
+34 to 35,Southbound,49,08:00,Tuesday
+35 to 35A,Northbound,60,08:00,Tuesday
+35 to 35A,Southbound,29,08:00,Tuesday
+35A to 36,Northbound,66,08:00,Tuesday
+35A to 36,Southbound,43,08:00,Tuesday
+36 to 37,Northbound,62,08:00,Tuesday
+36 to 37,Southbound,64,08:00,Tuesday
+37 to 38,Northbound,67,08:00,Tuesday
+37 to 38,Southbound,63,08:00,Tuesday
+38 to 39,Northbound,65,08:00,Tuesday
+38 to 39,Southbound,62,08:00,Tuesday
+39 to 40,Northbound,61,08:00,Tuesday
+39 to 40,Southbound,63,08:00,Tuesday
+40 to 41,Northbound,50,08:00,Tuesday
+40 to 41,Southbound,63,08:00,Tuesday
+41 to 42,Northbound,59,08:00,Tuesday
+41 to 42,Southbound,65,08:00,Tuesday
+42 to 43/44,Northbound,35,08:00,Tuesday
+42 to 43/44,Southbound,65,08:00,Tuesday
+43/44 to 45,Northbound,12,08:00,Tuesday
+43/44 to 45,Southbound,64,08:00,Tuesday
+45 to 46,Northbound,31,08:00,Tuesday
+45 to 46,Southbound,57,08:00,Tuesday
+46 to 47,Northbound,48,08:00,Tuesday
+46 to 47,Southbound,38,08:00,Tuesday
+47 to 48,Northbound,54,08:00,Tuesday
+47 to 48,Southbound,24,08:00,Tuesday
+1 to 2,Northbound,58,13:00,Tuesday
+1 to 2,Southbound,57,13:00,Tuesday
+2 to 4,Northbound,60,13:00,Tuesday
+2 to 4,Southbound,61,13:00,Tuesday
+4 to 5,Northbound,66,13:00,Tuesday
+4 to 5,Southbound,64,13:00,Tuesday
+5 to 6,Northbound,65,13:00,Tuesday
+5 to 6,Southbound,70,13:00,Tuesday
+6 to 6A,Northbound,65,13:00,Tuesday
+6 to 6A,Southbound,70,13:00,Tuesday
+6A to 7,Northbound,59,13:00,Tuesday
+6A to 7,Southbound,60,13:00,Tuesday
+7 to 8,Northbound,59,13:00,Tuesday
+7 to 8,Southbound,45,13:00,Tuesday
+8 to 9,Northbound,65,13:00,Tuesday
+ 8 to 9,Southbound,61,13:00,Tuesday
+9 to 10,Northbound,54,13:00,Tuesday
+9 to 10,Southbound,61,13:00,Tuesday
+10 to 11,Northbound,48,13:00,Tuesday
+10 to 11,Southbound,40,13:00,Tuesday
+11 to 11A,Northbound,51,13:00,Tuesday
+11 to 11A,Southbound,29,13:00,Tuesday
+11A to 12,Northbound,51,13:00,Tuesday
+11A to 12,Southbound,15,13:00,Tuesday
+12 to 13,Northbound,48,13:00,Tuesday
+12 to 13,Southbound,47,13:00,Tuesday
+13 to14,Northbound,62,13:00,Tuesday
+13 to14,Southbound,60,13:00,Tuesday
+14 to 15,Northbound,64,13:00,Tuesday
+14 to15,Southbound,62,13:00,Tuesday
+15 to 15A,Northbound,64,13:00,Tuesday
+15 to 15A,Southbound,58,13:00,Tuesday
+15A to 16,Northbound,59,13:00,Tuesday
+15A to 16,Southbound,58,13:00,Tuesday
+16 to 17,Northbound,62,13:00,Tuesday
+16 to 17,Southbound,63,13:00,Tuesday
+17 to 18,Northbound,63,13:00,Tuesday
+17 to 18,Southbound,65,13:00,Tuesday
+18 to 19,Northbound,61,13:00,Tuesday
+18 to 19,Southbound,67,13:00,Tuesday
+19 to 20,Northbound,63,13:00,Tuesday
+19 to 20,Southbound,64,13:00,Tuesday
+20 to 21,Northbound,67,13:00,Tuesday
+20 to 21,Southbound,65,13:00,Tuesday
+21 to 21A,Northbound,58,13:00,Tuesday
+21 to 21A,Southbound,64,13:00,Tuesday
+21A to 22,Northbound,64,13:00,Tuesday
+21A to 22,Southbound,67,13:00,Tuesday
+22 to 23,Northbound,68,13:00,Tuesday
+22 to 23,Southbound,62,13:00,Tuesday
+23 to 23A,Northbound,64,13:00,Tuesday
+23 to 23A,Southbound,63,13:00,Tuesday
+23A to 24,Northbound,59,13:00,Tuesday
+23A to 24,Southbound,60,13:00,Tuesday
+24 to 24A,Northbound,62,13:00,Tuesday
+24 to 24A,Southbound,57,13:00,Tuesday
+24A to 25,Northbound,57,13:00,Tuesday
+24A to 25,Southbound,64,13:00,Tuesday
+25 to 26,Northbound,61,13:00,Tuesday
+25 to 26,Southbound,59,13:00,Tuesday
+26 to 27,Northbound,62,13:00,Tuesday
+26 to 27,Southbound,61,13:00,Tuesday
+27 to 28,Northbound,62,13:00,Tuesday
+27 to 28,Southbound,68,13:00,Tuesday
+28 to 29,Northbound,61,13:00,Tuesday
+28 to 29,Southbound,62,13:00,Tuesday
+29 to 29A,Northbound,61,13:00,Tuesday
+29 to 29A,Southbound,59,13:00,Tuesday
+29A to 30,Northbound,47,13:00,Tuesday
+29A to 30,Southbound,16,13:00,Tuesday
+30 to 31,Northbound,47,13:00,Tuesday
+30 to 31,Southbound,42,13:00,Tuesday
+31 to 32,Northbound,60,13:00,Tuesday
+31 to 32,Southbound,49,13:00,Tuesday
+32 to 33,Northbound,48,13:00,Tuesday
+32 to 33,Southbound,53,13:00,Tuesday
+33 to 34,Northbound,49,13:00,Tuesday
+33 to 34,Southbound,50,13:00,Tuesday
+34 to 35,Northbound,48,13:00,Tuesday
+34 to 35,Southbound,48,13:00,Tuesday
+35 to 35A,Northbound,56,13:00,Tuesday
+35 to 35A,Southbound,52,13:00,Tuesday
+35A to 36,Northbound,61,13:00,Tuesday
+35A to 36,Southbound,63,13:00,Tuesday
+36 to 37,Northbound,62,13:00,Tuesday
+36 to 37,Southbound,66,13:00,Tuesday
+37 to 38,Northbound,66,13:00,Tuesday
+37 to 38,Southbound,65,13:00,Tuesday
+38 to 39,Northbound,61,13:00,Tuesday
+38 to 39,Southbound,62,13:00,Tuesday
+39 to 40,Northbound,58,13:00,Tuesday
+39 to 40,Southbound,63,13:00,Tuesday
+40 to 41,Northbound,61,13:00,Tuesday
+40 to 41,Southbound,63,13:00,Tuesday
+41 to 42,Northbound,65,13:00,Tuesday
+41 to 42,Southbound,63,13:00,Tuesday
+42 to 43/44,Northbound,60,13:00,Tuesday
+42 to 43/44,Southbound,65,13:00,Tuesday
+43/44 to 45,Northbound,61,13:00,Tuesday
+43/44 to 45,Southbound,61,13:00,Tuesday
+45 to 46,Northbound,50,13:00,Tuesday
+45 to 46,Southbound,56,13:00,Tuesday
+46 to 47,Northbound,56,13:00,Tuesday
+46 to 47,Southbound,47,13:00,Tuesday
+47 to 48,Northbound,59,13:00,Tuesday
+47 to 48,Southbound,47,13:00,Tuesday
+1 to 2,Northbound,62,18:00,Tuesday
+1 to 2,Southbound,56,18:00,Tuesday
+2 to 4,Northbound,66,18:00,Tuesday
+2 to 4,Southbound,70,18:00,Tuesday
+4 to 5,Northbound,62,18:00,Tuesday
+4 to 5,Southbound,70,18:00,Tuesday
+5 to 6,Northbound,67,18:00,Tuesday
+5 to 6,Southbound,68,18:00,Tuesday
+6 to 6A,Northbound,68,18:00,Tuesday
+6 to 6A,Southbound,70,18:00,Tuesday
+6A to 7,Northbound,58,18:00,Tuesday
+6A to 7,Southbound,63,18:00,Tuesday
+7 to 8,Northbound,45,18:00,Tuesday
+7 to 8,Southbound,53,18:00,Tuesday
+8 to 9,Northbound,45,18:00,Tuesday
+ 8 to 9,Southbound,58,18:00,Tuesday
+9 to 10,Northbound,17,18:00,Tuesday
+9 to 10,Southbound,58,18:00,Tuesday
+10 to 11,Northbound,25,18:00,Tuesday
+10 to 11,Southbound,41,18:00,Tuesday
+11 to 11A,Northbound,48,18:00,Tuesday
+11 to 11A,Southbound,41,18:00,Tuesday
+11A to 12,Northbound,51,18:00,Tuesday
+11A to 12,Southbound,47,18:00,Tuesday
+12 to 13,Northbound,52,18:00,Tuesday
+12 to 13,Southbound,48,18:00,Tuesday
+13 to14,Northbound,65,18:00,Tuesday
+13 to14,Southbound,57,18:00,Tuesday
+14 to 15,Northbound,65,18:00,Tuesday
+14 to15,Southbound,66,18:00,Tuesday
+15 to 15A,Northbound,69,18:00,Tuesday
+15 to 15A,Southbound,62,18:00,Tuesday
+15A to 16,Northbound,66,18:00,Tuesday
+15A to 16,Southbound,60,18:00,Tuesday
+16 to 17,Northbound,66,18:00,Tuesday
+16 to 17,Southbound,63,18:00,Tuesday
+17 to 18,Northbound,64,18:00,Tuesday
+17 to 18,Southbound,65,18:00,Tuesday
+18 to 19,Northbound,64,18:00,Tuesday
+18 to 19,Southbound,63,18:00,Tuesday
+19 to 20,Northbound,65,18:00,Tuesday
+19 to 20,Southbound,63,18:00,Tuesday
+20 to 21,Northbound,70,18:00,Tuesday
+20 to 21,Southbound,69,18:00,Tuesday
+21 to 21A,Northbound,58,18:00,Tuesday
+21 to 21A,Southbound,52,18:00,Tuesday
+21A to 22,Northbound,68,18:00,Tuesday
+21A to 22,Southbound,67,18:00,Tuesday
+22 to 23,Northbound,70,18:00,Tuesday
+22 to 23,Southbound,62,18:00,Tuesday
+23 to 23A,Northbound,67,18:00,Tuesday
+23 to 23A,Southbound,70,18:00,Tuesday
+23A to 24,Northbound,63,18:00,Tuesday
+23A to 24,Southbound,60,18:00,Tuesday
+24 to 24A,Northbound,65,18:00,Tuesday
+24 to 24A,Southbound,64,18:00,Tuesday
+24A to 25,Northbound,64,18:00,Tuesday
+24A to 25,Southbound,68,18:00,Tuesday
+25 to 26,Northbound,67,18:00,Tuesday
+25 to 26,Southbound,70,18:00,Tuesday
+26 to 27,Northbound,70,18:00,Tuesday
+26 to 27,Southbound,70,18:00,Tuesday
+27 to 28,Northbound,59,18:00,Tuesday
+27 to 28,Southbound,64,18:00,Tuesday
+28 to 29,Northbound,63,18:00,Tuesday
+28 to 29,Southbound,65,18:00,Tuesday
+29 to 29A,Northbound,56,18:00,Tuesday
+29 to 29A,Southbound,64,18:00,Tuesday
+29A to 30,Northbound,43,18:00,Tuesday
+29A to 30,Southbound,56,18:00,Tuesday
+30 to 31,Northbound,49,18:00,Tuesday
+30 to 31,Southbound,49,18:00,Tuesday
+31 to 32,Northbound,63,18:00,Tuesday
+31 to 32,Southbound,45,18:00,Tuesday
+32 to 33,Northbound,40,18:00,Tuesday
+32 to 33,Southbound,46,18:00,Tuesday
+33 to 34,Northbound,51,18:00,Tuesday
+33 to 34,Southbound,44,18:00,Tuesday
+34 to 35,Northbound,50,18:00,Tuesday
+34 to 35,Southbound,49,18:00,Tuesday
+35 to 35A,Northbound,61,18:00,Tuesday
+35 to 35A,Southbound,51,18:00,Tuesday
+35A to 36,Northbound,70,18:00,Tuesday
+35A to 36,Southbound,64,18:00,Tuesday
+36 to 37,Northbound,70,18:00,Tuesday
+36 to 37,Southbound,67,18:00,Tuesday
+37 to 38,Northbound,70,18:00,Tuesday
+37 to 38,Southbound,70,18:00,Tuesday
+38 to 39,Northbound,70,18:00,Tuesday
+38 to 39,Southbound,68,18:00,Tuesday
+39 to 40,Northbound,69,18:00,Tuesday
+39 to 40,Southbound,61,18:00,Tuesday
+40 to 41,Northbound,66,18:00,Tuesday
+40 to 41,Southbound,63,18:00,Tuesday
+41 to 42,Northbound,64,18:00,Tuesday
+41 to 42,Southbound,64,18:00,Tuesday
+42 to 43/44,Northbound,67,18:00,Tuesday
+42 to 43/44,Southbound,66,18:00,Tuesday
+43/44 to 45,Northbound,33,18:00,Tuesday
+43/44 to 45,Southbound,64,18:00,Tuesday
+45 to 46,Northbound,25,18:00,Tuesday
+45 to 46,Southbound,56,18:00,Tuesday
+46 to 47,Northbound,47,18:00,Tuesday
+46 to 47,Southbound,40,18:00,Tuesday
+47 to 48,Northbound,59,18:00,Tuesday
+47 to 48,Southbound,28,18:00,Tuesday
+1 to 2,Northbound,63,22:00,Tuesday
+1 to 2,Southbound,63,22:00,Tuesday
+2 to 4,Northbound,68,22:00,Tuesday
+2 to 4,Southbound,68,22:00,Tuesday
+4 to 5,Northbound,62,22:00,Tuesday
+4 to 5,Southbound,70,22:00,Tuesday
+5 to 6,Northbound,55,22:00,Tuesday
+5 to 6,Southbound,69,22:00,Tuesday
+6 to 6A,Northbound,56,22:00,Tuesday
+6 to 6A,Southbound,58,22:00,Tuesday
+6A to 7,Northbound,63,22:00,Tuesday
+6A to 7,Southbound,60,22:00,Tuesday
+7 to 8,Northbound,58,22:00,Tuesday
+7 to 8,Southbound,59,22:00,Tuesday
+8 to 9,Northbound,59,22:00,Tuesday
+ 8 to 9,Southbound,65,22:00,Tuesday
+9 to 10,Northbound,61,22:00,Tuesday
+9 to 10,Southbound,66,22:00,Tuesday
+10 to 11,Northbound,49,22:00,Tuesday
+10 to 11,Southbound,52,22:00,Tuesday
+11 to 11A,Northbound,50,22:00,Tuesday
+11 to 11A,Southbound,49,22:00,Tuesday
+11A to 12,Northbound,50,22:00,Tuesday
+11A to 12,Southbound,49,22:00,Tuesday
+12 to 13,Northbound,49,22:00,Tuesday
+12 to 13,Southbound,49,22:00,Tuesday
+13 to14,Northbound,58,22:00,Tuesday
+13 to14,Southbound,62,22:00,Tuesday
+14 to 15,Northbound,63,22:00,Tuesday
+14 to15,Southbound,66,22:00,Tuesday
+15 to 15A,Northbound,68,22:00,Tuesday
+15 to 15A,Southbound,47,22:00,Tuesday
+15A to 16,Northbound,68,22:00,Tuesday
+15A to 16,Southbound,58,22:00,Tuesday
+16 to 17,Northbound,63,22:00,Tuesday
+16 to 17,Southbound,45,22:00,Tuesday
+17 to 18,Northbound,51,22:00,Tuesday
+17 to 18,Southbound,47,22:00,Tuesday
+18 to 19,Northbound,66,22:00,Tuesday
+18 to 19,Southbound,56,22:00,Tuesday
+19 to 20,Northbound,70,22:00,Tuesday
+19 to 20,Southbound,58,22:00,Tuesday
+20 to 21,Northbound,63,22:00,Tuesday
+20 to 21,Southbound,57,22:00,Tuesday
+21 to 21A,Northbound,52,22:00,Tuesday
+21 to 21A,Southbound,63,22:00,Tuesday
+21A to 22,Northbound,61,22:00,Tuesday
+21A to 22,Southbound,63,22:00,Tuesday
+22 to 23,Northbound,70,22:00,Tuesday
+22 to 23,Southbound,53,22:00,Tuesday
+23 to 23A,Northbound,68,22:00,Tuesday
+23 to 23A,Southbound,55,22:00,Tuesday
+23A to 24,Northbound,66,22:00,Tuesday
+23A to 24,Southbound,49,22:00,Tuesday
+24 to 24A,Northbound,58,22:00,Tuesday
+24 to 24A,Southbound,56,22:00,Tuesday
+24A to 25,Northbound,43,22:00,Tuesday
+24A to 25,Southbound,63,22:00,Tuesday
+25 to 26,Northbound,66,22:00,Tuesday
+25 to 26,Southbound,69,22:00,Tuesday
+26 to 27,Northbound,66,22:00,Tuesday
+26 to 27,Southbound,70,22:00,Tuesday
+27 to 28,Northbound,65,22:00,Tuesday
+27 to 28,Southbound,67,22:00,Tuesday
+28 to 29,Northbound,68,22:00,Tuesday
+28 to 29,Southbound,59,22:00,Tuesday
+29 to 29A,Northbound,48,22:00,Tuesday
+29 to 29A,Southbound,56,22:00,Tuesday
+29A to 30,Northbound,47,22:00,Tuesday
+29A to 30,Southbound,45,22:00,Tuesday
+30 to 31,Northbound,51,22:00,Tuesday
+30 to 31,Southbound,46,22:00,Tuesday
+31 to 32,Northbound,58,22:00,Tuesday
+31 to 32,Southbound,55,22:00,Tuesday
+32 to 33,Northbound,52,22:00,Tuesday
+32 to 33,Southbound,53,22:00,Tuesday
+33 to 34,Northbound,50,22:00,Tuesday
+33 to 34,Southbound,48,22:00,Tuesday
+34 to 35,Northbound,49,22:00,Tuesday
+34 to 35,Southbound,49,22:00,Tuesday
+35 to 35A,Northbound,57,22:00,Tuesday
+35 to 35A,Southbound,51,22:00,Tuesday
+35A to 36,Northbound,68,22:00,Tuesday
+35A to 36,Southbound,68,22:00,Tuesday
+36 to 37,Northbound,66,22:00,Tuesday
+36 to 37,Southbound,69,22:00,Tuesday
+37 to 38,Northbound,67,22:00,Tuesday
+37 to 38,Southbound,61,22:00,Tuesday
+38 to 39,Northbound,67,22:00,Tuesday
+38 to 39,Southbound,55,22:00,Tuesday
+39 to 40,Northbound,60,22:00,Tuesday
+39 to 40,Southbound,55,22:00,Tuesday
+40 to 41,Northbound,47,22:00,Tuesday
+40 to 41,Southbound,55,22:00,Tuesday
+41 to 42,Northbound,53,22:00,Tuesday
+41 to 42,Southbound,56,22:00,Tuesday
+42 to 43/44,Northbound,60,22:00,Tuesday
+42 to 43/44,Southbound,56,22:00,Tuesday
+43/44 to 45,Northbound,63,22:00,Tuesday
+43/44 to 45,Southbound,56,22:00,Tuesday
+45 to 46,Northbound,51,22:00,Tuesday
+45 to 46,Southbound,65,22:00,Tuesday
+46 to 47,Northbound,49,22:00,Tuesday
+46 to 47,Southbound,50,22:00,Tuesday
+47 to 48,Northbound,57,22:00,Tuesday
+47 to 48,Southbound,51,22:00,Tuesday
+1 to 2,Northbound,66,08:00,Wednesday
+1 to 2,Southbound,45,08:00,Wednesday
+2 to 4,Northbound,70,08:00,Wednesday
+2 to 4,Southbound,70,08:00,Wednesday
+4 to 5,Northbound,70,08:00,Wednesday
+4 to 5,Southbound,66,08:00,Wednesday
+5 to 6,Northbound,66,08:00,Wednesday
+5 to 6,Southbound,64,08:00,Wednesday
+6 to 6A,Northbound,70,08:00,Wednesday
+6 to 6A,Southbound,70,08:00,Wednesday
+6A to 7,Northbound,61,08:00,Wednesday
+6A to 7,Southbound,59,08:00,Wednesday
+7 to 8,Northbound,51,08:00,Wednesday
+7 to 8,Southbound,57,08:00,Wednesday
+8 to 9,Northbound,60,08:00,Wednesday
+ 8 to 9,Southbound,56,08:00,Wednesday
+9 to 10,Northbound,57,08:00,Wednesday
+9 to 10,Southbound,58,08:00,Wednesday
+10 to 11,Northbound,53,08:00,Wednesday
+10 to 11,Southbound,40,08:00,Wednesday
+11 to 11A,Northbound,52,08:00,Wednesday
+11 to 11A,Southbound,25,08:00,Wednesday
+11A to 12,Northbound,51,08:00,Wednesday
+11A to 12,Southbound,34,08:00,Wednesday
+12 to 13,Northbound,51,08:00,Wednesday
+12 to 13,Southbound,53,08:00,Wednesday
+13 to14,Northbound,61,08:00,Wednesday
+13 to14,Southbound,60,08:00,Wednesday
+14 to 15,Northbound,66,08:00,Wednesday
+14 to15,Southbound,61,08:00,Wednesday
+15 to 15A,Northbound,66,08:00,Wednesday
+15 to 15A,Southbound,61,08:00,Wednesday
+15A to 16,Northbound,69,08:00,Wednesday
+15A to 16,Southbound,63,08:00,Wednesday
+16 to 17,Northbound,68,08:00,Wednesday
+16 to 17,Southbound,65,08:00,Wednesday
+17 to 18,Northbound,67,08:00,Wednesday
+17 to 18,Southbound,68,08:00,Wednesday
+18 to 19,Northbound,62,08:00,Wednesday
+18 to 19,Southbound,69,08:00,Wednesday
+19 to 20,Northbound,66,08:00,Wednesday
+19 to 20,Southbound,70,08:00,Wednesday
+20 to 21,Northbound,69,08:00,Wednesday
+20 to 21,Southbound,68,08:00,Wednesday
+21 to 21A,Northbound,60,08:00,Wednesday
+21 to 21A,Southbound,31,08:00,Wednesday
+21A to 22,Northbound,67,08:00,Wednesday
+21A to 22,Southbound,42,08:00,Wednesday
+22 to 23,Northbound,68,08:00,Wednesday
+22 to 23,Southbound,63,08:00,Wednesday
+23 to 23A,Northbound,63,08:00,Wednesday
+23 to 23A,Southbound,63,08:00,Wednesday
+23A to 24,Northbound,58,08:00,Wednesday
+23A to 24,Southbound,61,08:00,Wednesday
+24 to 24A,Northbound,59,08:00,Wednesday
+24 to 24A,Southbound,62,08:00,Wednesday
+24A to 25,Northbound,52,08:00,Wednesday
+24A to 25,Southbound,62,08:00,Wednesday
+25 to 26,Northbound,65,08:00,Wednesday
+25 to 26,Southbound,58,08:00,Wednesday
+26 to 27,Northbound,68,08:00,Wednesday
+26 to 27,Southbound,67,08:00,Wednesday
+27 to 28,Northbound,60,08:00,Wednesday
+27 to 28,Southbound,64,08:00,Wednesday
+28 to 29,Northbound,55,08:00,Wednesday
+28 to 29,Southbound,65,08:00,Wednesday
+29 to 29A,Northbound,66,08:00,Wednesday
+29 to 29A,Southbound,62,08:00,Wednesday
+29A to 30,Northbound,50,08:00,Wednesday
+29A to 30,Southbound,54,08:00,Wednesday
+30 to 31,Northbound,50,08:00,Wednesday
+30 to 31,Southbound,49,08:00,Wednesday
+31 to 32,Northbound,56,08:00,Wednesday
+31 to 32,Southbound,52,08:00,Wednesday
+32 to 33,Northbound,33,08:00,Wednesday
+32 to 33,Southbound,48,08:00,Wednesday
+33 to 34,Northbound,49,08:00,Wednesday
+33 to 34,Southbound,45,08:00,Wednesday
+34 to 35,Northbound,49,08:00,Wednesday
+34 to 35,Southbound,48,08:00,Wednesday
+35 to 35A,Northbound,60,08:00,Wednesday
+35 to 35A,Southbound,49,08:00,Wednesday
+35A to 36,Northbound,62,08:00,Wednesday
+35A to 36,Southbound,65,08:00,Wednesday
+36 to 37,Northbound,61,08:00,Wednesday
+36 to 37,Southbound,66,08:00,Wednesday
+37 to 38,Northbound,69,08:00,Wednesday
+37 to 38,Southbound,70,08:00,Wednesday
+38 to 39,Northbound,66,08:00,Wednesday
+38 to 39,Southbound,68,08:00,Wednesday
+39 to 40,Northbound,61,08:00,Wednesday
+39 to 40,Southbound,65,08:00,Wednesday
+40 to 41,Northbound,55,08:00,Wednesday
+40 to 41,Southbound,65,08:00,Wednesday
+41 to 42,Northbound,62,08:00,Wednesday
+41 to 42,Southbound,59,08:00,Wednesday
+42 to 43/44,Northbound,58,08:00,Wednesday
+42 to 43/44,Southbound,62,08:00,Wednesday
+43/44 to 45,Northbound,18,08:00,Wednesday
+43/44 to 45,Southbound,64,08:00,Wednesday
+45 to 46,Northbound,30,08:00,Wednesday
+45 to 46,Southbound,58,08:00,Wednesday
+46 to 47,Northbound,48,08:00,Wednesday
+46 to 47,Southbound,42,08:00,Wednesday
+47 to 48,Northbound,53,08:00,Wednesday
+47 to 48,Southbound,29,08:00,Wednesday
+1 to 2,Northbound,68,13:00,Wednesday
+1 to 2,Southbound,63,13:00,Wednesday
+2 to 4,Northbound,70,13:00,Wednesday
+2 to 4,Southbound,70,13:00,Wednesday
+4 to 5,Northbound,69,13:00,Wednesday
+4 to 5,Southbound,70,13:00,Wednesday
+5 to 6,Northbound,66,13:00,Wednesday
+5 to 6,Southbound,65,13:00,Wednesday
+6 to 6A,Northbound,68,13:00,Wednesday
+6 to 6A,Southbound,70,13:00,Wednesday
+6A to 7,Northbound,29,13:00,Wednesday
+6A to 7,Southbound,66,13:00,Wednesday
+7 to 8,Northbound,44,13:00,Wednesday
+7 to 8,Southbound,46,13:00,Wednesday
+8 to 9,Northbound,39,13:00,Wednesday
+ 8 to 9,Southbound,11,13:00,Wednesday
+9 to 10,Northbound,56,13:00,Wednesday
+9 to 10,Southbound,11,13:00,Wednesday
+10 to 11,Northbound,48,13:00,Wednesday
+10 to 11,Southbound,50,13:00,Wednesday
+11 to 11A,Northbound,48,13:00,Wednesday
+11 to 11A,Southbound,50,13:00,Wednesday
+11A to 12,Northbound,48,13:00,Wednesday
+11A to 12,Southbound,51,13:00,Wednesday
+12 to 13,Northbound,49,13:00,Wednesday
+12 to 13,Southbound,50,13:00,Wednesday
+13 to14,Northbound,62,13:00,Wednesday
+13 to14,Southbound,58,13:00,Wednesday
+14 to 15,Northbound,63,13:00,Wednesday
+14 to15,Southbound,66,13:00,Wednesday
+15 to 15A,Northbound,66,13:00,Wednesday
+15 to 15A,Southbound,63,13:00,Wednesday
+15A to 16,Northbound,62,13:00,Wednesday
+15A to 16,Southbound,63,13:00,Wednesday
+16 to 17,Northbound,63,13:00,Wednesday
+16 to 17,Southbound,62,13:00,Wednesday
+17 to 18,Northbound,65,13:00,Wednesday
+17 to 18,Southbound,61,13:00,Wednesday
+18 to 19,Northbound,66,13:00,Wednesday
+18 to 19,Southbound,65,13:00,Wednesday
+19 to 20,Northbound,65,13:00,Wednesday
+19 to 20,Southbound,67,13:00,Wednesday
+20 to 21,Northbound,63,13:00,Wednesday
+20 to 21,Southbound,68,13:00,Wednesday
+21 to 21A,Northbound,59,13:00,Wednesday
+21 to 21A,Southbound,67,13:00,Wednesday
+21A to 22,Northbound,62,13:00,Wednesday
+21A to 22,Southbound,69,13:00,Wednesday
+22 to 23,Northbound,66,13:00,Wednesday
+22 to 23,Southbound,63,13:00,Wednesday
+23 to 23A,Northbound,67,13:00,Wednesday
+23 to 23A,Southbound,66,13:00,Wednesday
+23A to 24,Northbound,66,13:00,Wednesday
+23A to 24,Southbound,65,13:00,Wednesday
+24 to 24A,Northbound,65,13:00,Wednesday
+24 to 24A,Southbound,66,13:00,Wednesday
+24A to 25,Northbound,68,13:00,Wednesday
+24A to 25,Southbound,66,13:00,Wednesday
+25 to 26,Northbound,67,13:00,Wednesday
+25 to 26,Southbound,67,13:00,Wednesday
+26 to 27,Northbound,67,13:00,Wednesday
+26 to 27,Southbound,68,13:00,Wednesday
+27 to 28,Northbound,62,13:00,Wednesday
+27 to 28,Southbound,68,13:00,Wednesday
+28 to 29,Northbound,64,13:00,Wednesday
+28 to 29,Southbound,64,13:00,Wednesday
+29 to 29A,Northbound,67,13:00,Wednesday
+29 to 29A,Southbound,60,13:00,Wednesday
+29A to 30,Northbound,50,13:00,Wednesday
+29A to 30,Southbound,54,13:00,Wednesday
+30 to 31,Northbound,50,13:00,Wednesday
+30 to 31,Southbound,53,13:00,Wednesday
+31 to 32,Northbound,56,13:00,Wednesday
+31 to 32,Southbound,53,13:00,Wednesday
+32 to 33,Northbound,47,13:00,Wednesday
+32 to 33,Southbound,50,13:00,Wednesday
+33 to 34,Northbound,44,13:00,Wednesday
+33 to 34,Southbound,47,13:00,Wednesday
+34 to 35,Northbound,39,13:00,Wednesday
+34 to 35,Southbound,47,13:00,Wednesday
+35 to 35A,Northbound,58,13:00,Wednesday
+35 to 35A,Southbound,48,13:00,Wednesday
+35A to 36,Northbound,67,13:00,Wednesday
+35A to 36,Southbound,62,13:00,Wednesday
+36 to 37,Northbound,68,13:00,Wednesday
+36 to 37,Southbound,64,13:00,Wednesday
+37 to 38,Northbound,67,13:00,Wednesday
+37 to 38,Southbound,67,13:00,Wednesday
+38 to 39,Northbound,65,13:00,Wednesday
+38 to 39,Southbound,65,13:00,Wednesday
+39 to 40,Northbound,52,13:00,Wednesday
+39 to 40,Southbound,61,13:00,Wednesday
+40 to 41,Northbound,49,13:00,Wednesday
+40 to 41,Southbound,59,13:00,Wednesday
+41 to 42,Northbound,57,13:00,Wednesday
+41 to 42,Southbound,58,13:00,Wednesday
+42 to 43/44,Northbound,60,13:00,Wednesday
+42 to 43/44,Southbound,59,13:00,Wednesday
+43/44 to 45,Northbound,60,13:00,Wednesday
+43/44 to 45,Southbound,61,13:00,Wednesday
+45 to 46,Northbound,56,13:00,Wednesday
+45 to 46,Southbound,54,13:00,Wednesday
+46 to 47,Northbound,54,13:00,Wednesday
+46 to 47,Southbound,47,13:00,Wednesday
+47 to 48,Northbound,54,13:00,Wednesday
+47 to 48,Southbound,49,13:00,Wednesday
+1 to 2,Northbound,62,18:00,Wednesday
+1 to 2,Southbound,63,18:00,Wednesday
+2 to 4,Northbound,68,18:00,Wednesday
+2 to 4,Southbound,70,18:00,Wednesday
+4 to 5,Northbound,70,18:00,Wednesday
+4 to 5,Southbound,65,18:00,Wednesday
+5 to 6,Northbound,65,18:00,Wednesday
+5 to 6,Southbound,56,18:00,Wednesday
+6 to 6A,Northbound,19,18:00,Wednesday
+6 to 6A,Southbound,63,18:00,Wednesday
+6A to 7,Northbound,33,18:00,Wednesday
+6A to 7,Southbound,57,18:00,Wednesday
+7 to 8,Northbound,53,18:00,Wednesday
+7 to 8,Southbound,52,18:00,Wednesday
+8 to 9,Northbound,33,18:00,Wednesday
+ 8 to 9,Southbound,58,18:00,Wednesday
+9 to 10,Northbound,16,18:00,Wednesday
+9 to 10,Southbound,59,18:00,Wednesday
+10 to 11,Northbound,35,18:00,Wednesday
+10 to 11,Southbound,40,18:00,Wednesday
+11 to 11A,Northbound,46,18:00,Wednesday
+11 to 11A,Southbound,22,18:00,Wednesday
+11A to 12,Northbound,43,18:00,Wednesday
+11A to 12,Southbound,32,18:00,Wednesday
+12 to 13,Northbound,38,18:00,Wednesday
+12 to 13,Southbound,48,18:00,Wednesday
+13 to14,Northbound,66,18:00,Wednesday
+13 to14,Southbound,58,18:00,Wednesday
+14 to 15,Northbound,65,18:00,Wednesday
+14 to15,Southbound,59,18:00,Wednesday
+15 to 15A,Northbound,69,18:00,Wednesday
+15 to 15A,Southbound,69,18:00,Wednesday
+15A to 16,Northbound,70,18:00,Wednesday
+15A to 16,Southbound,69,18:00,Wednesday
+16 to 17,Northbound,68,18:00,Wednesday
+16 to 17,Southbound,69,18:00,Wednesday
+17 to 18,Northbound,68,18:00,Wednesday
+17 to 18,Southbound,68,18:00,Wednesday
+18 to 19,Northbound,69,18:00,Wednesday
+18 to 19,Southbound,70,18:00,Wednesday
+19 to 20,Northbound,70,18:00,Wednesday
+19 to 20,Southbound,70,18:00,Wednesday
+20 to 21,Northbound,70,18:00,Wednesday
+20 to 21,Southbound,70,18:00,Wednesday
+21 to 21A,Northbound,50,18:00,Wednesday
+21 to 21A,Southbound,61,18:00,Wednesday
+21A to 22,Northbound,64,18:00,Wednesday
+21A to 22,Southbound,67,18:00,Wednesday
+22 to 23,Northbound,69,18:00,Wednesday
+22 to 23,Southbound,60,18:00,Wednesday
+23 to 23A,Northbound,67,18:00,Wednesday
+23 to 23A,Southbound,60,18:00,Wednesday
+23A to 24,Northbound,64,18:00,Wednesday
+23A to 24,Southbound,55,18:00,Wednesday
+24 to 24A,Northbound,62,18:00,Wednesday
+24 to 24A,Southbound,63,18:00,Wednesday
+24A to 25,Northbound,64,18:00,Wednesday
+24A to 25,Southbound,69,18:00,Wednesday
+25 to 26,Northbound,69,18:00,Wednesday
+25 to 26,Southbound,69,18:00,Wednesday
+26 to 27,Northbound,67,18:00,Wednesday
+26 to 27,Southbound,70,18:00,Wednesday
+27 to 28,Northbound,68,18:00,Wednesday
+27 to 28,Southbound,67,18:00,Wednesday
+28 to 29,Northbound,36,18:00,Wednesday
+28 to 29,Southbound,67,18:00,Wednesday
+29 to 29A,Northbound,16,18:00,Wednesday
+29 to 29A,Southbound,64,18:00,Wednesday
+29A to 30,Northbound,32,18:00,Wednesday
+29A to 30,Southbound,55,18:00,Wednesday
+30 to 31,Northbound,48,18:00,Wednesday
+30 to 31,Southbound,33,18:00,Wednesday
+31 to 32,Northbound,59,18:00,Wednesday
+31 to 32,Southbound,9,18:00,Wednesday
+32 to 33,Northbound,48,18:00,Wednesday
+32 to 33,Southbound,38,18:00,Wednesday
+33 to 34,Northbound,49,18:00,Wednesday
+33 to 34,Southbound,46,18:00,Wednesday
+34 to 35,Northbound,48,18:00,Wednesday
+34 to 35,Southbound,48,18:00,Wednesday
+35 to 35A,Northbound,62,18:00,Wednesday
+35 to 35A,Southbound,49,18:00,Wednesday
+35A to 36,Northbound,70,18:00,Wednesday
+35A to 36,Southbound,64,18:00,Wednesday
+36 to 37,Northbound,70,18:00,Wednesday
+36 to 37,Southbound,64,18:00,Wednesday
+37 to 38,Northbound,70,18:00,Wednesday
+37 to 38,Southbound,64,18:00,Wednesday
+38 to 39,Northbound,70,18:00,Wednesday
+38 to 39,Southbound,62,18:00,Wednesday
+39 to 40,Northbound,70,18:00,Wednesday
+39 to 40,Southbound,59,18:00,Wednesday
+40 to 41,Northbound,69,18:00,Wednesday
+40 to 41,Southbound,45,18:00,Wednesday
+41 to 42,Northbound,67,18:00,Wednesday
+41 to 42,Southbound,16,18:00,Wednesday
+42 to 43/44,Northbound,60,18:00,Wednesday
+42 to 43/44,Southbound,30,18:00,Wednesday
+43/44 to 45,Northbound,14,18:00,Wednesday
+43/44 to 45,Southbound,46,18:00,Wednesday
+45 to 46,Northbound,23,18:00,Wednesday
+45 to 46,Southbound,57,18:00,Wednesday
+46 to 47,Northbound,48,18:00,Wednesday
+46 to 47,Southbound,47,18:00,Wednesday
+47 to 48,Northbound,56,18:00,Wednesday
+47 to 48,Southbound,49,18:00,Wednesday
+1 to 2,Northbound,59,22:00,Wednesday
+1 to 2,Southbound,,22:00,Wednesday
+2 to 4,Northbound,59,22:00,Wednesday
+2 to 4,Southbound,,22:00,Wednesday
+4 to 5,Northbound,63,22:00,Wednesday
+4 to 5,Southbound,65,22:00,Wednesday
+5 to 6,Northbound,65,22:00,Wednesday
+5 to 6,Southbound,68,22:00,Wednesday
+6 to 6A,Northbound,64,22:00,Wednesday
+6 to 6A,Southbound,70,22:00,Wednesday
+6A to 7,Northbound,63,22:00,Wednesday
+6A to 7,Southbound,58,22:00,Wednesday
+7 to 8,Northbound,59,22:00,Wednesday
+7 to 8,Southbound,56,22:00,Wednesday
+8 to 9,Northbound,60,22:00,Wednesday
+ 8 to 9,Southbound,63,22:00,Wednesday
+9 to 10,Northbound,58,22:00,Wednesday
+9 to 10,Southbound,63,22:00,Wednesday
+10 to 11,Northbound,48,22:00,Wednesday
+10 to 11,Southbound,49,22:00,Wednesday
+11 to 11A,Northbound,48,22:00,Wednesday
+11 to 11A,Southbound,49,22:00,Wednesday
+11A to 12,Northbound,48,22:00,Wednesday
+11A to 12,Southbound,48,22:00,Wednesday
+12 to 13,Northbound,49,22:00,Wednesday
+12 to 13,Southbound,48,22:00,Wednesday
+13 to14,Northbound,65,22:00,Wednesday
+13 to14,Southbound,59,22:00,Wednesday
+14 to 15,Northbound,55,22:00,Wednesday
+14 to15,Southbound,66,22:00,Wednesday
+15 to 15A,Northbound,40,22:00,Wednesday
+15 to 15A,Southbound,62,22:00,Wednesday
+15A to 16,Northbound,66,22:00,Wednesday
+15A to 16,Southbound,61,22:00,Wednesday
+16 to 17,Northbound,57,22:00,Wednesday
+16 to 17,Southbound,50,22:00,Wednesday
+17 to 18,Northbound,42,22:00,Wednesday
+17 to 18,Southbound,35,22:00,Wednesday
+18 to 19,Northbound,62,22:00,Wednesday
+18 to 19,Southbound,60,22:00,Wednesday
+19 to 20,Northbound,65,22:00,Wednesday
+19 to 20,Southbound,50,22:00,Wednesday
+20 to 21,Northbound,56,22:00,Wednesday
+20 to 21,Southbound,57,22:00,Wednesday
+21 to 21A,Northbound,53,22:00,Wednesday
+21 to 21A,Southbound,57,22:00,Wednesday
+21A to 22,Northbound,65,22:00,Wednesday
+21A to 22,Southbound,62,22:00,Wednesday
+22 to 23,Northbound,66,22:00,Wednesday
+22 to 23,Southbound,63,22:00,Wednesday
+23 to 23A,Northbound,69,22:00,Wednesday
+23 to 23A,Southbound,66,22:00,Wednesday
+23A to 24,Northbound,60,22:00,Wednesday
+23A to 24,Southbound,54,22:00,Wednesday
+24 to 24A,Northbound,58,22:00,Wednesday
+24 to 24A,Southbound,56,22:00,Wednesday
+24A to 25,Northbound,68,22:00,Wednesday
+24A to 25,Southbound,59,22:00,Wednesday
+25 to 26,Northbound,67,22:00,Wednesday
+25 to 26,Southbound,63,22:00,Wednesday
+26 to 27,Northbound,65,22:00,Wednesday
+26 to 27,Southbound,70,22:00,Wednesday
+27 to 28,Northbound,68,22:00,Wednesday
+27 to 28,Southbound,66,22:00,Wednesday
+28 to 29,Northbound,53,22:00,Wednesday
+28 to 29,Southbound,58,22:00,Wednesday
+29 to 29A,Northbound,44,22:00,Wednesday
+29 to 29A,Southbound,58,22:00,Wednesday
+29A to 30,Northbound,26,22:00,Wednesday
+29A to 30,Southbound,48,22:00,Wednesday
+30 to 31,Northbound,50,22:00,Wednesday
+30 to 31,Southbound,38,22:00,Wednesday
+31 to 32,Northbound,61,22:00,Wednesday
+31 to 32,Southbound,51,22:00,Wednesday
+32 to 33,Northbound,48,22:00,Wednesday
+32 to 33,Southbound,53,22:00,Wednesday
+33 to 34,Northbound,50,22:00,Wednesday
+33 to 34,Southbound,50,22:00,Wednesday
+34 to 35,Northbound,48,22:00,Wednesday
+34 to 35,Southbound,50,22:00,Wednesday
+35 to 35A,Northbound,60,22:00,Wednesday
+35 to 35A,Southbound,53,22:00,Wednesday
+35A to 36,Northbound,67,22:00,Wednesday
+35A to 36,Southbound,65,22:00,Wednesday
+36 to 37,Northbound,67,22:00,Wednesday
+36 to 37,Southbound,69,22:00,Wednesday
+37 to 38,Northbound,67,22:00,Wednesday
+37 to 38,Southbound,67,22:00,Wednesday
+38 to 39,Northbound,68,22:00,Wednesday
+38 to 39,Southbound,60,22:00,Wednesday
+39 to 40,Northbound,66,22:00,Wednesday
+39 to 40,Southbound,61,22:00,Wednesday
+40 to 41,Northbound,65,22:00,Wednesday
+40 to 41,Southbound,65,22:00,Wednesday
+41 to 42,Northbound,65,22:00,Wednesday
+41 to 42,Southbound,70,22:00,Wednesday
+42 to 43/44,Northbound,65,22:00,Wednesday
+42 to 43/44,Southbound,67,22:00,Wednesday
+43/44 to 45,Northbound,65,22:00,Wednesday
+43/44 to 45,Southbound,68,22:00,Wednesday
+45 to 46,Northbound,50,22:00,Wednesday
+45 to 46,Southbound,65,22:00,Wednesday
+46 to 47,Northbound,50,22:00,Wednesday
+46 to 47,Southbound,51,22:00,Wednesday
+47 to 48,Northbound,57,22:00,Wednesday
+47 to 48,Southbound,51,22:00,Wednesday
+1 to 2,Northbound,62,08:00,Thursday
+1 to 2,Southbound,28,08:00,Thursday
+2 to 4,Northbound,69,08:00,Thursday
+2 to 4,Southbound,68,08:00,Thursday
+4 to 5,Northbound,70,08:00,Thursday
+4 to 5,Southbound,70,08:00,Thursday
+5 to 6,Northbound,69,08:00,Thursday
+5 to 6,Southbound,70,08:00,Thursday
+6 to 6A,Northbound,66,08:00,Thursday
+6 to 6A,Southbound,70,08:00,Thursday
+6A to 7,Northbound,61,08:00,Thursday
+6A to 7,Southbound,60,08:00,Thursday
+7 to 8,Northbound,54,08:00,Thursday
+7 to 8,Southbound,58,08:00,Thursday
+8 to 9,Northbound,60,08:00,Thursday
+ 8 to 9,Southbound,58,08:00,Thursday
+9 to 10,Northbound,56,08:00,Thursday
+9 to 10,Southbound,59,08:00,Thursday
+10 to 11,Northbound,47,08:00,Thursday
+10 to 11,Southbound,40,08:00,Thursday
+11 to 11A,Northbound,49,08:00,Thursday
+11 to 11A,Southbound,23,08:00,Thursday
+11A to 12,Northbound,52,08:00,Thursday
+11A to 12,Southbound,20,08:00,Thursday
+12 to 13,Northbound,49,08:00,Thursday
+12 to 13,Southbound,48,08:00,Thursday
+13 to14,Northbound,57,08:00,Thursday
+13 to14,Southbound,59,08:00,Thursday
+14 to 15,Northbound,63,08:00,Thursday
+14 to15,Southbound,64,08:00,Thursday
+15 to 15A,Northbound,62,08:00,Thursday
+15 to 15A,Southbound,64,08:00,Thursday
+15A to 16,Northbound,67,08:00,Thursday
+15A to 16,Southbound,69,08:00,Thursday
+16 to 17,Northbound,64,08:00,Thursday
+16 to 17,Southbound,67,08:00,Thursday
+17 to 18,Northbound,65,08:00,Thursday
+17 to 18,Southbound,66,08:00,Thursday
+18 to 19,Northbound,63,08:00,Thursday
+18 to 19,Southbound,63,08:00,Thursday
+19 to 20,Northbound,65,08:00,Thursday
+19 to 20,Southbound,62,08:00,Thursday
+20 to 21,Northbound,65,08:00,Thursday
+20 to 21,Southbound,69,08:00,Thursday
+21 to 21A,Northbound,55,08:00,Thursday
+21 to 21A,Southbound,35,08:00,Thursday
+21A to 22,Northbound,69,08:00,Thursday
+21A to 22,Southbound,37,08:00,Thursday
+22 to 23,Northbound,66,08:00,Thursday
+22 to 23,Southbound,60,08:00,Thursday
+23 to 23A,Northbound,62,08:00,Thursday
+23 to 23A,Southbound,60,08:00,Thursday
+23A to 24,Northbound,56,08:00,Thursday
+23A to 24,Southbound,60,08:00,Thursday
+24 to 24A,Northbound,60,08:00,Thursday
+24 to 24A,Southbound,61,08:00,Thursday
+24A to 25,Northbound,63,08:00,Thursday
+24A to 25,Southbound,63,08:00,Thursday
+25 to 26,Northbound,65,08:00,Thursday
+25 to 26,Southbound,64,08:00,Thursday
+26 to 27,Northbound,70,08:00,Thursday
+26 to 27,Southbound,64,08:00,Thursday
+27 to 28,Northbound,61,08:00,Thursday
+27 to 28,Southbound,66,08:00,Thursday
+28 to 29,Northbound,64,08:00,Thursday
+28 to 29,Southbound,55,08:00,Thursday
+29 to 29A,Northbound,67,08:00,Thursday
+29 to 29A,Southbound,64,08:00,Thursday
+29A to 30,Northbound,55,08:00,Thursday
+29A to 30,Southbound,55,08:00,Thursday
+30 to 31,Northbound,55,08:00,Thursday
+30 to 31,Southbound,51,08:00,Thursday
+31 to 32,Northbound,49,08:00,Thursday
+31 to 32,Southbound,51,08:00,Thursday
+32 to 33,Northbound,31,08:00,Thursday
+32 to 33,Southbound,53,08:00,Thursday
+33 to 34,Northbound,49,08:00,Thursday
+33 to 34,Southbound,49,08:00,Thursday
+34 to 35,Northbound,48,08:00,Thursday
+34 to 35,Southbound,48,08:00,Thursday
+35 to 35A,Northbound,61,08:00,Thursday
+35 to 35A,Southbound,48,08:00,Thursday
+35A to 36,Northbound,64,08:00,Thursday
+35A to 36,Southbound,61,08:00,Thursday
+36 to 37,Northbound,68,08:00,Thursday
+36 to 37,Southbound,64,08:00,Thursday
+37 to 38,Northbound,70,08:00,Thursday
+37 to 38,Southbound,68,08:00,Thursday
+38 to 39,Northbound,70,08:00,Thursday
+38 to 39,Southbound,64,08:00,Thursday
+39 to 40,Northbound,62,08:00,Thursday
+39 to 40,Southbound,63,08:00,Thursday
+40 to 41,Northbound,56,08:00,Thursday
+40 to 41,Southbound,62,08:00,Thursday
+41 to 42,Northbound,64,08:00,Thursday
+41 to 42,Southbound,63,08:00,Thursday
+42 to 43/44,Northbound,61,08:00,Thursday
+42 to 43/44,Southbound,60,08:00,Thursday
+43/44 to 45,Northbound,31,08:00,Thursday
+43/44 to 45,Southbound,66,08:00,Thursday
+45 to 46,Northbound,25,08:00,Thursday
+45 to 46,Southbound,59,08:00,Thursday
+46 to 47,Northbound,48,08:00,Thursday
+46 to 47,Southbound,47,08:00,Thursday
+47 to 48,Northbound,53,08:00,Thursday
+47 to 48,Southbound,50,08:00,Thursday
+1 to 2,Northbound,64,13:00,Thursday
+1 to 2,Southbound,56,13:00,Thursday
+2 to 4,Northbound,70,13:00,Thursday
+2 to 4,Southbound,67,13:00,Thursday
+4 to 5,Northbound,64,13:00,Thursday
+4 to 5,Southbound,70,13:00,Thursday
+5 to 6,Northbound,61,13:00,Thursday
+5 to 6,Southbound,70,13:00,Thursday
+6 to 6A,Northbound,58,13:00,Thursday
+6 to 6A,Southbound,60,13:00,Thursday
+6A to 7,Northbound,58,13:00,Thursday
+6A to 7,Southbound,60,13:00,Thursday
+7 to 8,Northbound,53,13:00,Thursday
+7 to 8,Southbound,49,13:00,Thursday
+8 to 9,Northbound,44,13:00,Thursday
+ 8 to 9,Southbound,59,13:00,Thursday
+9 to 10,Northbound,28,13:00,Thursday
+9 to 10,Southbound,59,13:00,Thursday
+10 to 11,Northbound,43,13:00,Thursday
+10 to 11,Southbound,50,13:00,Thursday
+11 to 11A,Northbound,52,13:00,Thursday
+11 to 11A,Southbound,50,13:00,Thursday
+11A to 12,Northbound,52,13:00,Thursday
+11A to 12,Southbound,52,13:00,Thursday
+12 to 13,Northbound,39,13:00,Thursday
+12 to 13,Southbound,50,13:00,Thursday
+13 to14,Northbound,64,13:00,Thursday
+13 to14,Southbound,55,13:00,Thursday
+14 to 15,Northbound,65,13:00,Thursday
+14 to15,Southbound,65,13:00,Thursday
+15 to 15A,Northbound,62,13:00,Thursday
+15 to 15A,Southbound,64,13:00,Thursday
+15A to 16,Northbound,66,13:00,Thursday
+15A to 16,Southbound,64,13:00,Thursday
+16 to 17,Northbound,66,13:00,Thursday
+16 to 17,Southbound,64,13:00,Thursday
+17 to 18,Northbound,66,13:00,Thursday
+17 to 18,Southbound,63,13:00,Thursday
+18 to 19,Northbound,65,13:00,Thursday
+18 to 19,Southbound,64,13:00,Thursday
+19 to 20,Northbound,69,13:00,Thursday
+19 to 20,Southbound,66,13:00,Thursday
+20 to 21,Northbound,68,13:00,Thursday
+20 to 21,Southbound,70,13:00,Thursday
+21 to 21A,Northbound,60,13:00,Thursday
+21 to 21A,Southbound,63,13:00,Thursday
+21A to 22,Northbound,64,13:00,Thursday
+21A to 22,Southbound,65,13:00,Thursday
+22 to 23,Northbound,62,13:00,Thursday
+22 to 23,Southbound,63,13:00,Thursday
+23 to 23A,Northbound,60,13:00,Thursday
+23 to 23A,Southbound,64,13:00,Thursday
+23A to 24,Northbound,61,13:00,Thursday
+23A to 24,Southbound,64,13:00,Thursday
+24 to 24A,Northbound,60,13:00,Thursday
+24 to 24A,Southbound,65,13:00,Thursday
+24A to 25,Northbound,59,13:00,Thursday
+24A to 25,Southbound,66,13:00,Thursday
+25 to 26,Northbound,65,13:00,Thursday
+25 to 26,Southbound,65,13:00,Thursday
+26 to 27,Northbound,66,13:00,Thursday
+26 to 27,Southbound,62,13:00,Thursday
+27 to 28,Northbound,66,13:00,Thursday
+27 to 28,Southbound,62,13:00,Thursday
+28 to 29,Northbound,64,13:00,Thursday
+28 to 29,Southbound,64,13:00,Thursday
+29 to 29A,Northbound,65,13:00,Thursday
+29 to 29A,Southbound,64,13:00,Thursday
+29A to 30,Northbound,55,13:00,Thursday
+29A to 30,Southbound,52,13:00,Thursday
+30 to 31,Northbound,55,13:00,Thursday
+30 to 31,Southbound,48,13:00,Thursday
+31 to 32,Northbound,61,13:00,Thursday
+31 to 32,Southbound,48,13:00,Thursday
+32 to 33,Northbound,48,13:00,Thursday
+32 to 33,Southbound,49,13:00,Thursday
+33 to 34,Northbound,47,13:00,Thursday
+33 to 34,Southbound,46,13:00,Thursday
+34 to 35,Northbound,47,13:00,Thursday
+34 to 35,Southbound,47,13:00,Thursday
+35 to 35A,Northbound,61,13:00,Thursday
+35 to 35A,Southbound,51,13:00,Thursday
+35A to 36,Northbound,66,13:00,Thursday
+35A to 36,Southbound,62,13:00,Thursday
+36 to 37,Northbound,63,13:00,Thursday
+36 to 37,Southbound,62,13:00,Thursday
+37 to 38,Northbound,67,13:00,Thursday
+37 to 38,Southbound,62,13:00,Thursday
+38 to 39,Northbound,67,13:00,Thursday
+38 to 39,Southbound,65,13:00,Thursday
+39 to 40,Northbound,65,13:00,Thursday
+39 to 40,Southbound,63,13:00,Thursday
+40 to 41,Northbound,64,13:00,Thursday
+40 to 41,Southbound,64,13:00,Thursday
+41 to 42,Northbound,55,13:00,Thursday
+41 to 42,Southbound,61,13:00,Thursday
+42 to 43/44,Northbound,61,13:00,Thursday
+42 to 43/44,Southbound,64,13:00,Thursday
+43/44 to 45,Northbound,65,13:00,Thursday
+43/44 to 45,Southbound,63,13:00,Thursday
+45 to 46,Northbound,49,13:00,Thursday
+45 to 46,Southbound,58,13:00,Thursday
+46 to 47,Northbound,47,13:00,Thursday
+46 to 47,Southbound,55,13:00,Thursday
+47 to 48,Northbound,51,13:00,Thursday
+47 to 48,Southbound,55,13:00,Thursday
+1 to 2,Northbound,68,18:00,Thursday
+1 to 2,Southbound,65,18:00,Thursday
+2 to 4,Northbound,70,18:00,Thursday
+2 to 4,Southbound,69,18:00,Thursday
+4 to 5,Northbound,70,18:00,Thursday
+4 to 5,Southbound,70,18:00,Thursday
+5 to 6,Northbound,69,18:00,Thursday
+5 to 6,Southbound,66,18:00,Thursday
+6 to 6A,Northbound,66,18:00,Thursday
+6 to 6A,Southbound,70,18:00,Thursday
+6A to 7,Northbound,56,18:00,Thursday
+6A to 7,Southbound,62,18:00,Thursday
+7 to 8,Northbound,53,18:00,Thursday
+7 to 8,Southbound,51,18:00,Thursday
+8 to 9,Northbound,26,18:00,Thursday
+ 8 to 9,Southbound,57,18:00,Thursday
+9 to 10,Northbound,19,18:00,Thursday
+9 to 10,Southbound,59,18:00,Thursday
+10 to 11,Northbound,37,18:00,Thursday
+10 to 11,Southbound,51,18:00,Thursday
+11 to 11A,Northbound,25,18:00,Thursday
+11 to 11A,Southbound,50,18:00,Thursday
+11A to 12,Northbound,17,18:00,Thursday
+11A to 12,Southbound,52,18:00,Thursday
+12 to 13,Northbound,48,18:00,Thursday
+12 to 13,Southbound,50,18:00,Thursday
+13 to14,Northbound,62,18:00,Thursday
+13 to14,Southbound,61,18:00,Thursday
+14 to 15,Northbound,68,18:00,Thursday
+14 to15,Southbound,66,18:00,Thursday
+15 to 15A,Northbound,66,18:00,Thursday
+15 to 15A,Southbound,62,18:00,Thursday
+15A to 16,Northbound,66,18:00,Thursday
+15A to 16,Southbound,64,18:00,Thursday
+16 to 17,Northbound,69,18:00,Thursday
+16 to 17,Southbound,65,18:00,Thursday
+17 to 18,Northbound,70,18:00,Thursday
+17 to 18,Southbound,65,18:00,Thursday
+18 to 19,Northbound,69,18:00,Thursday
+18 to 19,Southbound,65,18:00,Thursday
+19 to 20,Northbound,69,18:00,Thursday
+19 to 20,Southbound,63,18:00,Thursday
+20 to 21,Northbound,69,18:00,Thursday
+20 to 21,Southbound,65,18:00,Thursday
+21 to 21A,Northbound,58,18:00,Thursday
+21 to 21A,Southbound,57,18:00,Thursday
+21A to 22,Northbound,67,18:00,Thursday
+21A to 22,Southbound,68,18:00,Thursday
+22 to 23,Northbound,70,18:00,Thursday
+22 to 23,Southbound,65,18:00,Thursday
+23 to 23A,Northbound,69,18:00,Thursday
+23 to 23A,Southbound,64,18:00,Thursday
+23A to 24,Northbound,66,18:00,Thursday
+23A to 24,Southbound,25,18:00,Thursday
+24 to 24A,Northbound,70,18:00,Thursday
+24 to 24A,Southbound,53,18:00,Thursday
+24A to 25,Northbound,59,18:00,Thursday
+24A to 25,Southbound,70,18:00,Thursday
+25 to 26,Northbound,66,18:00,Thursday
+25 to 26,Southbound,70,18:00,Thursday
+26 to 27,Northbound,69,18:00,Thursday
+26 to 27,Southbound,70,18:00,Thursday
+27 to 28,Northbound,50,18:00,Thursday
+27 to 28,Southbound,68,18:00,Thursday
+28 to 29,Northbound,47,18:00,Thursday
+28 to 29,Southbound,66,18:00,Thursday
+29 to 29A,Northbound,16,18:00,Thursday
+29 to 29A,Southbound,63,18:00,Thursday
+29A to 30,Northbound,32,18:00,Thursday
+29A to 30,Southbound,50,18:00,Thursday
+30 to 31,Northbound,50,18:00,Thursday
+30 to 31,Southbound,44,18:00,Thursday
+31 to 32,Northbound,65,18:00,Thursday
+31 to 32,Southbound,22,18:00,Thursday
+32 to 33,Northbound,48,18:00,Thursday
+32 to 33,Southbound,35,18:00,Thursday
+33 to 34,Northbound,49,18:00,Thursday
+33 to 34,Southbound,21,18:00,Thursday
+34 to 35,Northbound,47,18:00,Thursday
+34 to 35,Southbound,48,18:00,Thursday
+35 to 35A,Northbound,60,18:00,Thursday
+35 to 35A,Southbound,48,18:00,Thursday
+35A to 36,Northbound,66,18:00,Thursday
+35A to 36,Southbound,65,18:00,Thursday
+36 to 37,Northbound,67,18:00,Thursday
+36 to 37,Southbound,70,18:00,Thursday
+37 to 38,Northbound,68,18:00,Thursday
+37 to 38,Southbound,70,18:00,Thursday
+38 to 39,Northbound,70,18:00,Thursday
+38 to 39,Southbound,70,18:00,Thursday
+39 to 40,Northbound,69,18:00,Thursday
+39 to 40,Southbound,65,18:00,Thursday
+40 to 41,Northbound,68,18:00,Thursday
+40 to 41,Southbound,64,18:00,Thursday
+41 to 42,Northbound,66,18:00,Thursday
+41 to 42,Southbound,62,18:00,Thursday
+42 to 43/44,Northbound,62,18:00,Thursday
+42 to 43/44,Southbound,64,18:00,Thursday
+43/44 to 45,Northbound,19,18:00,Thursday
+43/44 to 45,Southbound,63,18:00,Thursday
+45 to 46,Northbound,32,18:00,Thursday
+45 to 46,Southbound,56,18:00,Thursday
+46 to 47,Northbound,54,18:00,Thursday
+46 to 47,Southbound,35,18:00,Thursday
+47 to 48,Northbound,58,18:00,Thursday
+47 to 48,Southbound,38,18:00,Thursday
+1 to 2,Northbound,66,22:00,Thursday
+1 to 2,Southbound,59,22:00,Thursday
+2 to 4,Northbound,68,22:00,Thursday
+2 to 4,Southbound,66,22:00,Thursday
+4 to 5,Northbound,68,22:00,Thursday
+4 to 5,Southbound,65,22:00,Thursday
+5 to 6,Northbound,66,22:00,Thursday
+5 to 6,Southbound,69,22:00,Thursday
+6 to 6A,Northbound,65,22:00,Thursday
+6 to 6A,Southbound,70,22:00,Thursday
+6A to 7,Northbound,62,22:00,Thursday
+6A to 7,Southbound,65,22:00,Thursday
+7 to 8,Northbound,59,22:00,Thursday
+7 to 8,Southbound,59,22:00,Thursday
+8 to 9,Northbound,64,22:00,Thursday
+ 8 to 9,Southbound,58,22:00,Thursday
+9 to 10,Northbound,57,22:00,Thursday
+9 to 10,Southbound,64,22:00,Thursday
+10 to 11,Northbound,48,22:00,Thursday
+10 to 11,Southbound,50,22:00,Thursday
+11 to 11A,Northbound,48,22:00,Thursday
+11 to 11A,Southbound,52,22:00,Thursday
+11A to 12,Northbound,48,22:00,Thursday
+11A to 12,Southbound,53,22:00,Thursday
+12 to 13,Northbound,49,22:00,Thursday
+12 to 13,Southbound,53,22:00,Thursday
+13 to14,Northbound,63,22:00,Thursday
+13 to14,Southbound,61,22:00,Thursday
+14 to 15,Northbound,44,22:00,Thursday
+14 to15,Southbound,37,22:00,Thursday
+15 to 15A,Northbound,59,22:00,Thursday
+15 to 15A,Southbound,69,22:00,Thursday
+15A to 16,Northbound,58,22:00,Thursday
+15A to 16,Southbound,64,22:00,Thursday
+16 to 17,Northbound,21,22:00,Thursday
+16 to 17,Southbound,60,22:00,Thursday
+17 to 18,Northbound,66,22:00,Thursday
+17 to 18,Southbound,49,22:00,Thursday
+18 to 19,Northbound,48,22:00,Thursday
+18 to 19,Southbound,60,22:00,Thursday
+19 to 20,Northbound,68,22:00,Thursday
+19 to 20,Southbound,66,22:00,Thursday
+20 to 21,Northbound,62,22:00,Thursday
+20 to 21,Southbound,32,22:00,Thursday
+21 to 21A,Northbound,53,22:00,Thursday
+21 to 21A,Southbound,58,22:00,Thursday
+21A to 22,Northbound,56,22:00,Thursday
+21A to 22,Southbound,65,22:00,Thursday
+22 to 23,Northbound,60,22:00,Thursday
+22 to 23,Southbound,67,22:00,Thursday
+23 to 23A,Northbound,63,22:00,Thursday
+23 to 23A,Southbound,62,22:00,Thursday
+23A to 24,Northbound,64,22:00,Thursday
+23A to 24,Southbound,56,22:00,Thursday
+24 to 24A,Northbound,63,22:00,Thursday
+24 to 24A,Southbound,56,22:00,Thursday
+24A to 25,Northbound,63,22:00,Thursday
+24A to 25,Southbound,55,22:00,Thursday
+25 to 26,Northbound,62,22:00,Thursday
+25 to 26,Southbound,58,22:00,Thursday
+26 to 27,Northbound,60,22:00,Thursday
+26 to 27,Southbound,62,22:00,Thursday
+27 to 28,Northbound,65,22:00,Thursday
+27 to 28,Southbound,66,22:00,Thursday
+28 to 29,Northbound,63,22:00,Thursday
+28 to 29,Southbound,60,22:00,Thursday
+29 to 29A,Northbound,29,22:00,Thursday
+29 to 29A,Southbound,65,22:00,Thursday
+29A to 30,Northbound,45,22:00,Thursday
+29A to 30,Southbound,45,22:00,Thursday
+30 to 31,Northbound,54,22:00,Thursday
+30 to 31,Southbound,41,22:00,Thursday
+31 to 32,Northbound,64,22:00,Thursday
+31 to 32,Southbound,51,22:00,Thursday
+32 to 33,Northbound,50,22:00,Thursday
+32 to 33,Southbound,51,22:00,Thursday
+33 to 34,Northbound,50,22:00,Thursday
+33 to 34,Southbound,47,22:00,Thursday
+34 to 35,Northbound,50,22:00,Thursday
+34 to 35,Southbound,52,22:00,Thursday
+35 to 35A,Northbound,60,22:00,Thursday
+35 to 35A,Southbound,48,22:00,Thursday
+35A to 36,Northbound,69,22:00,Thursday
+35A to 36,Southbound,68,22:00,Thursday
+36 to 37,Northbound,70,22:00,Thursday
+36 to 37,Southbound,66,22:00,Thursday
+37 to 38,Northbound,59,22:00,Thursday
+37 to 38,Southbound,62,22:00,Thursday
+38 to 39,Northbound,69,22:00,Thursday
+38 to 39,Southbound,59,22:00,Thursday
+39 to 40,Northbound,61,22:00,Thursday
+39 to 40,Southbound,65,22:00,Thursday
+40 to 41,Northbound,41,22:00,Thursday
+40 to 41,Southbound,64,22:00,Thursday
+41 to 42,Northbound,65,22:00,Thursday
+41 to 42,Southbound,64,22:00,Thursday
+42 to 43/44,Northbound,66,22:00,Thursday
+42 to 43/44,Southbound,61,22:00,Thursday
+43/44 to 45,Northbound,62,22:00,Thursday
+43/44 to 45,Southbound,61,22:00,Thursday
+45 to 46,Northbound,48,22:00,Thursday
+45 to 46,Southbound,58,22:00,Thursday
+46 to 47,Northbound,48,22:00,Thursday
+46 to 47,Southbound,49,22:00,Thursday
+47 to 48,Northbound,62,22:00,Thursday
+47 to 48,Southbound,49,22:00,Thursday
+1 to 2,Northbound,61,08:00,Friday
+1 to 2,Southbound,61,08:00,Friday
+2 to 4,Northbound,67,08:00,Friday
+2 to 4,Southbound,70,08:00,Friday
+4 to 5,Northbound,68,08:00,Friday
+4 to 5,Southbound,65,08:00,Friday
+5 to 6,Northbound,60,08:00,Friday
+5 to 6,Southbound,66,08:00,Friday
+6 to 6A,Northbound,67,08:00,Friday
+6 to 6A,Southbound,70,08:00,Friday
+6A to 7,Northbound,62,08:00,Friday
+6A to 7,Southbound,61,08:00,Friday
+7 to 8,Northbound,59,08:00,Friday
+7 to 8,Southbound,58,08:00,Friday
+8 to 9,Northbound,65,08:00,Friday
+ 8 to 9,Southbound,57,08:00,Friday
+9 to 10,Northbound,59,08:00,Friday
+9 to 10,Southbound,58,08:00,Friday
+10 to 11,Northbound,52,08:00,Friday
+10 to 11,Southbound,48,08:00,Friday
+11 to 11A,Northbound,51,08:00,Friday
+11 to 11A,Southbound,50,08:00,Friday
+11A to 12,Northbound,49,08:00,Friday
+11A to 12,Southbound,51,08:00,Friday
+12 to 13,Northbound,48,08:00,Friday
+12 to 13,Southbound,52,08:00,Friday
+13 to14,Northbound,62,08:00,Friday
+13 to14,Southbound,62,08:00,Friday
+14 to 15,Northbound,59,08:00,Friday
+14 to15,Southbound,65,08:00,Friday
+15 to 15A,Northbound,62,08:00,Friday
+15 to 15A,Southbound,65,08:00,Friday
+15A to 16,Northbound,70,08:00,Friday
+15A to 16,Southbound,60,08:00,Friday
+16 to 17,Northbound,70,08:00,Friday
+16 to 17,Southbound,64,08:00,Friday
+17 to 18,Northbound,70,08:00,Friday
+17 to 18,Southbound,63,08:00,Friday
+18 to 19,Northbound,63,08:00,Friday
+18 to 19,Southbound,63,08:00,Friday
+19 to 20,Northbound,55,08:00,Friday
+19 to 20,Southbound,68,08:00,Friday
+20 to 21,Northbound,28,08:00,Friday
+20 to 21,Southbound,70,08:00,Friday
+21 to 21A,Northbound,59,08:00,Friday
+21 to 21A,Southbound,62,08:00,Friday
+21A to 22,Northbound,62,08:00,Friday
+21A to 22,Southbound,68,08:00,Friday
+22 to 23,Northbound,70,08:00,Friday
+22 to 23,Southbound,67,08:00,Friday
+23 to 23A,Northbound,70,08:00,Friday
+23 to 23A,Southbound,67,08:00,Friday
+23A to 24,Northbound,69,08:00,Friday
+23A to 24,Southbound,66,08:00,Friday
+24 to 24A,Northbound,69,08:00,Friday
+24 to 24A,Southbound,67,08:00,Friday
+24A to 25,Northbound,66,08:00,Friday
+24A to 25,Southbound,66,08:00,Friday
+25 to 26,Northbound,68,08:00,Friday
+25 to 26,Southbound,68,08:00,Friday
+26 to 27,Northbound,66,08:00,Friday
+26 to 27,Southbound,70,08:00,Friday
+27 to 28,Northbound,67,08:00,Friday
+27 to 28,Southbound,69,08:00,Friday
+28 to 29,Northbound,67,08:00,Friday
+28 to 29,Southbound,67,08:00,Friday
+29 to 29A,Northbound,64,08:00,Friday
+29 to 29A,Southbound,65,08:00,Friday
+29A to 30,Northbound,49,08:00,Friday
+29A to 30,Southbound,52,08:00,Friday
+30 to 31,Northbound,53,08:00,Friday
+30 to 31,Southbound,48,08:00,Friday
+31 to 32,Northbound,58,08:00,Friday
+31 to 32,Southbound,51,08:00,Friday
+32 to 33,Northbound,48,08:00,Friday
+32 to 33,Southbound,52,08:00,Friday
+33 to 34,Northbound,49,08:00,Friday
+33 to 34,Southbound,47,08:00,Friday
+34 to 35,Northbound,49,08:00,Friday
+34 to 35,Southbound,50,08:00,Friday
+35 to 35A,Northbound,58,08:00,Friday
+35 to 35A,Southbound,50,08:00,Friday
+35A to 36,Northbound,68,08:00,Friday
+35A to 36,Southbound,67,08:00,Friday
+36 to 37,Northbound,70,08:00,Friday
+36 to 37,Southbound,70,08:00,Friday
+37 to 38,Northbound,70,08:00,Friday
+37 to 38,Southbound,69,08:00,Friday
+38 to 39,Northbound,68,08:00,Friday
+38 to 39,Southbound,68,08:00,Friday
+39 to 40,Northbound,65,08:00,Friday
+39 to 40,Southbound,62,08:00,Friday
+40 to 41,Northbound,63,08:00,Friday
+40 to 41,Southbound,60,08:00,Friday
+41 to 42,Northbound,70,08:00,Friday
+41 to 42,Southbound,60,08:00,Friday
+42 to 43/44,Northbound,69,08:00,Friday
+42 to 43/44,Southbound,62,08:00,Friday
+43/44 to 45,Northbound,61,08:00,Friday
+43/44 to 45,Southbound,67,08:00,Friday
+45 to 46,Northbound,50,08:00,Friday
+45 to 46,Southbound,60,08:00,Friday
+46 to 47,Northbound,51,08:00,Friday
+46 to 47,Southbound,48,08:00,Friday
+47 to 48,Northbound,58,08:00,Friday
+47 to 48,Southbound,49,08:00,Friday
+1 to 2,Northbound,68,13:00,Friday
+1 to 2,Southbound,56,13:00,Friday
+2 to 4,Northbound,70,13:00,Friday
+2 to 4,Southbound,70,13:00,Friday
+4 to 5,Northbound,61,13:00,Friday
+4 to 5,Southbound,68,13:00,Friday
+5 to 6,Northbound,70,13:00,Friday
+5 to 6,Southbound,67,13:00,Friday
+6 to 6A,Northbound,66,13:00,Friday
+6 to 6A,Southbound,70,13:00,Friday
+6A to 7,Northbound,58,13:00,Friday
+6A to 7,Southbound,58,13:00,Friday
+7 to 8,Northbound,55,13:00,Friday
+7 to 8,Southbound,49,13:00,Friday
+8 to 9,Northbound,30,13:00,Friday
+ 8 to 9,Southbound,61,13:00,Friday
+9 to 10,Northbound,18,13:00,Friday
+9 to 10,Southbound,59,13:00,Friday
+10 to 11,Northbound,34,13:00,Friday
+10 to 11,Southbound,45,13:00,Friday
+11 to 11A,Northbound,49,13:00,Friday
+11 to 11A,Southbound,47,13:00,Friday
+11A to 12,Northbound,52,13:00,Friday
+11A to 12,Southbound,52,13:00,Friday
+12 to 13,Northbound,51,13:00,Friday
+12 to 13,Southbound,51,13:00,Friday
+13 to14,Northbound,61,13:00,Friday
+13 to14,Southbound,58,13:00,Friday
+14 to 15,Northbound,63,13:00,Friday
+14 to15,Southbound,65,13:00,Friday
+15 to 15A,Northbound,62,13:00,Friday
+15 to 15A,Southbound,60,13:00,Friday
+15A to 16,Northbound,63,13:00,Friday
+15A to 16,Southbound,61,13:00,Friday
+16 to 17,Northbound,60,13:00,Friday
+16 to 17,Southbound,53,13:00,Friday
+17 to 18,Northbound,63,13:00,Friday
+17 to 18,Southbound,64,13:00,Friday
+18 to 19,Northbound,63,13:00,Friday
+18 to 19,Southbound,62,13:00,Friday
+19 to 20,Northbound,67,13:00,Friday
+19 to 20,Southbound,60,13:00,Friday
+20 to 21,Northbound,67,13:00,Friday
+20 to 21,Southbound,66,13:00,Friday
+21 to 21A,Northbound,55,13:00,Friday
+21 to 21A,Southbound,35,13:00,Friday
+21A to 22,Northbound,69,13:00,Friday
+21A to 22,Southbound,59,13:00,Friday
+22 to 23,Northbound,70,13:00,Friday
+22 to 23,Southbound,62,13:00,Friday
+23 to 23A,Northbound,65,13:00,Friday
+23 to 23A,Southbound,66,13:00,Friday
+23A to 24,Northbound,65,13:00,Friday
+23A to 24,Southbound,63,13:00,Friday
+24 to 24A,Northbound,67,13:00,Friday
+24 to 24A,Southbound,62,13:00,Friday
+24A to 25,Northbound,67,13:00,Friday
+24A to 25,Southbound,62,13:00,Friday
+25 to 26,Northbound,70,13:00,Friday
+25 to 26,Southbound,66,13:00,Friday
+26 to 27,Northbound,68,13:00,Friday
+26 to 27,Southbound,65,13:00,Friday
+27 to 28,Northbound,60,13:00,Friday
+27 to 28,Southbound,64,13:00,Friday
+28 to 29,Northbound,64,13:00,Friday
+28 to 29,Southbound,66,13:00,Friday
+29 to 29A,Northbound,25,13:00,Friday
+29 to 29A,Southbound,64,13:00,Friday
+29A to 30,Northbound,38,13:00,Friday
+29A to 30,Southbound,49,13:00,Friday
+30 to 31,Northbound,49,13:00,Friday
+30 to 31,Southbound,47,13:00,Friday
+31 to 32,Northbound,56,13:00,Friday
+31 to 32,Southbound,46,13:00,Friday
+32 to 33,Northbound,38,13:00,Friday
+32 to 33,Southbound,47,13:00,Friday
+33 to 34,Northbound,50,13:00,Friday
+33 to 34,Southbound,27,13:00,Friday
+34 to 35,Northbound,48,13:00,Friday
+34 to 35,Southbound,48,13:00,Friday
+35 to 35A,Northbound,60,13:00,Friday
+35 to 35A,Southbound,49,13:00,Friday
+35A to 36,Northbound,64,13:00,Friday
+35A to 36,Southbound,64,13:00,Friday
+36 to 37,Northbound,63,13:00,Friday
+36 to 37,Southbound,62,13:00,Friday
+37 to 38,Northbound,66,13:00,Friday
+37 to 38,Southbound,68,13:00,Friday
+38 to 39,Northbound,67,13:00,Friday
+38 to 39,Southbound,66,13:00,Friday
+39 to 40,Northbound,67,13:00,Friday
+39 to 40,Southbound,58,13:00,Friday
+40 to 41,Northbound,65,13:00,Friday
+40 to 41,Southbound,51,13:00,Friday
+41 to 42,Northbound,59,13:00,Friday
+41 to 42,Southbound,61,13:00,Friday
+42 to 43/44,Northbound,56,13:00,Friday
+42 to 43/44,Southbound,60,13:00,Friday
+43/44 to 45,Northbound,21,13:00,Friday
+43/44 to 45,Southbound,62,13:00,Friday
+45 to 46,Northbound,32,13:00,Friday
+45 to 46,Southbound,55,13:00,Friday
+46 to 47,Northbound,46,13:00,Friday
+46 to 47,Southbound,40,13:00,Friday
+47 to 48,Northbound,52,13:00,Friday
+47 to 48,Southbound,23,13:00,Friday
+1 to 2,Northbound,70,18:00,Friday
+1 to 2,Southbound,54,18:00,Friday
+2 to 4,Northbound,65,18:00,Friday
+2 to 4,Southbound,70,18:00,Friday
+4 to 5,Northbound,68,18:00,Friday
+4 to 5,Southbound,66,18:00,Friday
+5 to 6,Northbound,69,18:00,Friday
+5 to 6,Southbound,68,18:00,Friday
+6 to 6A,Northbound,68,18:00,Friday
+6 to 6A,Southbound,70,18:00,Friday
+6A to 7,Northbound,61,18:00,Friday
+6A to 7,Southbound,62,18:00,Friday
+7 to 8,Northbound,59,18:00,Friday
+7 to 8,Southbound,59,18:00,Friday
+8 to 9,Northbound,35,18:00,Friday
+ 8 to 9,Southbound,61,18:00,Friday
+9 to 10,Northbound,37,18:00,Friday
+9 to 10,Southbound,60,18:00,Friday
+10 to 11,Northbound,38,18:00,Friday
+10 to 11,Southbound,43,18:00,Friday
+11 to 11A,Northbound,47,18:00,Friday
+11 to 11A,Southbound,21,18:00,Friday
+11A to 12,Northbound,49,18:00,Friday
+11A to 12,Southbound,19,18:00,Friday
+12 to 13,Northbound,47,18:00,Friday
+12 to 13,Southbound,47,18:00,Friday
+13 to14,Northbound,60,18:00,Friday
+13 to14,Southbound,58,18:00,Friday
+14 to 15,Northbound,69,18:00,Friday
+14 to15,Southbound,66,18:00,Friday
+15 to 15A,Northbound,70,18:00,Friday
+15 to 15A,Southbound,61,18:00,Friday
+15A to 16,Northbound,66,18:00,Friday
+15A to 16,Southbound,63,18:00,Friday
+16 to 17,Northbound,67,18:00,Friday
+16 to 17,Southbound,64,18:00,Friday
+17 to 18,Northbound,70,18:00,Friday
+17 to 18,Southbound,66,18:00,Friday
+18 to 19,Northbound,64,18:00,Friday
+18 to 19,Southbound,70,18:00,Friday
+19 to 20,Northbound,68,18:00,Friday
+19 to 20,Southbound,70,18:00,Friday
+20 to 21,Northbound,70,18:00,Friday
+20 to 21,Southbound,70,18:00,Friday
+21 to 21A,Northbound,59,18:00,Friday
+21 to 21A,Southbound,67,18:00,Friday
+21A to 22,Northbound,70,18:00,Friday
+21A to 22,Southbound,70,18:00,Friday
+22 to 23,Northbound,70,18:00,Friday
+22 to 23,Southbound,68,18:00,Friday
+23 to 23A,Northbound,70,18:00,Friday
+23 to 23A,Southbound,68,18:00,Friday
+23A to 24,Northbound,62,18:00,Friday
+23A to 24,Southbound,69,18:00,Friday
+24 to 24A,Northbound,68,18:00,Friday
+24 to 24A,Southbound,65,18:00,Friday
+24A to 25,Northbound,68,18:00,Friday
+24A to 25,Southbound,69,18:00,Friday
+25 to 26,Northbound,68,18:00,Friday
+25 to 26,Southbound,67,18:00,Friday
+26 to 27,Northbound,60,18:00,Friday
+26 to 27,Southbound,67,18:00,Friday
+27 to 28,Northbound,11,18:00,Friday
+27 to 28,Southbound,69,18:00,Friday
+28 to 29,Northbound,58,18:00,Friday
+28 to 29,Southbound,69,18:00,Friday
+29 to 29A,Northbound,70,18:00,Friday
+29 to 29A,Southbound,67,18:00,Friday
+29A to 30,Northbound,54,18:00,Friday
+29A to 30,Southbound,52,18:00,Friday
+30 to 31,Northbound,56,18:00,Friday
+30 to 31,Southbound,51,18:00,Friday
+31 to 32,Northbound,56,18:00,Friday
+31 to 32,Southbound,55,18:00,Friday
+32 to 33,Northbound,34,18:00,Friday
+32 to 33,Southbound,54,18:00,Friday
+33 to 34,Northbound,48,18:00,Friday
+33 to 34,Southbound,48,18:00,Friday
+34 to 35,Northbound,47,18:00,Friday
+34 to 35,Southbound,50,18:00,Friday
+35 to 35A,Northbound,62,18:00,Friday
+35 to 35A,Southbound,50,18:00,Friday
+35A to 36,Northbound,69,18:00,Friday
+35A to 36,Southbound,67,18:00,Friday
+36 to 37,Northbound,70,18:00,Friday
+36 to 37,Southbound,70,18:00,Friday
+37 to 38,Northbound,70,18:00,Friday
+37 to 38,Southbound,70,18:00,Friday
+38 to 39,Northbound,70,18:00,Friday
+38 to 39,Southbound,70,18:00,Friday
+39 to 40,Northbound,68,18:00,Friday
+39 to 40,Southbound,68,18:00,Friday
+40 to 41,Northbound,67,18:00,Friday
+40 to 41,Southbound,70,18:00,Friday
+41 to 42,Northbound,68,18:00,Friday
+41 to 42,Southbound,66,18:00,Friday
+42 to 43/44,Northbound,67,18:00,Friday
+42 to 43/44,Southbound,67,18:00,Friday
+43/44 to 45,Northbound,57,18:00,Friday
+43/44 to 45,Southbound,70,18:00,Friday
+45 to 46,Northbound,35,18:00,Friday
+45 to 46,Southbound,62,18:00,Friday
+46 to 47,Northbound,47,18:00,Friday
+46 to 47,Southbound,48,18:00,Friday
+47 to 48,Northbound,56,18:00,Friday
+47 to 48,Southbound,49,18:00,Friday
+1 to 2,Northbound,66,22:00,Friday
+1 to 2,Southbound,55,22:00,Friday
+2 to 4,Northbound,67,22:00,Friday
+2 to 4,Southbound,67,22:00,Friday
+4 to 5,Northbound,69,22:00,Friday
+4 to 5,Southbound,70,22:00,Friday
+5 to 6,Northbound,70,22:00,Friday
+5 to 6,Southbound,69,22:00,Friday
+6 to 6A,Northbound,65,22:00,Friday
+6 to 6A,Southbound,70,22:00,Friday
+6A to 7,Northbound,62,22:00,Friday
+6A to 7,Southbound,55,22:00,Friday
+7 to 8,Northbound,54,22:00,Friday
+7 to 8,Southbound,61,22:00,Friday
+8 to 9,Northbound,62,22:00,Friday
+ 8 to 9,Southbound,60,22:00,Friday
+9 to 10,Northbound,58,22:00,Friday
+9 to 10,Southbound,61,22:00,Friday
+10 to 11,Northbound,48,22:00,Friday
+10 to 11,Southbound,48,22:00,Friday
+11 to 11A,Northbound,50,22:00,Friday
+11 to 11A,Southbound,48,22:00,Friday
+11A to 12,Northbound,50,22:00,Friday
+11A to 12,Southbound,46,22:00,Friday
+12 to 13,Northbound,50,22:00,Friday
+12 to 13,Southbound,48,22:00,Friday
+13 to14,Northbound,48,22:00,Friday
+13 to14,Southbound,49,22:00,Friday
+14 to 15,Northbound,60,22:00,Friday
+14 to15,Southbound,60,22:00,Friday
+15 to 15A,Northbound,58,22:00,Friday
+15 to 15A,Southbound,62,22:00,Friday
+15A to 16,Northbound,66,22:00,Friday
+15A to 16,Southbound,68,22:00,Friday
+16 to 17,Northbound,67,22:00,Friday
+16 to 17,Southbound,60,22:00,Friday
+17 to 18,Northbound,70,22:00,Friday
+17 to 18,Southbound,22,22:00,Friday
+18 to 19,Northbound,70,22:00,Friday
+18 to 19,Southbound,41,22:00,Friday
+19 to 20,Northbound,70,22:00,Friday
+19 to 20,Southbound,59,22:00,Friday
+20 to 21,Northbound,46,22:00,Friday
+20 to 21,Southbound,61,22:00,Friday
+21 to 21A,Northbound,57,22:00,Friday
+21 to 21A,Southbound,56,22:00,Friday
+21A to 22,Northbound,70,22:00,Friday
+21A to 22,Southbound,66,22:00,Friday
+22 to 23,Northbound,65,22:00,Friday
+22 to 23,Southbound,61,22:00,Friday
+23 to 23A,Northbound,66,22:00,Friday
+23 to 23A,Southbound,62,22:00,Friday
+23A to 24,Northbound,60,22:00,Friday
+23A to 24,Southbound,57,22:00,Friday
+24 to 24A,Northbound,57,22:00,Friday
+24 to 24A,Southbound,61,22:00,Friday
+24A to 25,Northbound,59,22:00,Friday
+24A to 25,Southbound,63,22:00,Friday
+25 to 26,Northbound,67,22:00,Friday
+25 to 26,Southbound,67,22:00,Friday
+26 to 27,Northbound,61,22:00,Friday
+26 to 27,Southbound,61,22:00,Friday
+27 to 28,Northbound,58,22:00,Friday
+27 to 28,Southbound,63,22:00,Friday
+28 to 29,Northbound,59,22:00,Friday
+28 to 29,Southbound,55,22:00,Friday
+29 to 29A,Northbound,29,22:00,Friday
+29 to 29A,Southbound,58,22:00,Friday
+29A to 30,Northbound,33,22:00,Friday
+29A to 30,Southbound,46,22:00,Friday
+30 to 31,Northbound,54,22:00,Friday
+30 to 31,Southbound,46,22:00,Friday
+31 to 32,Northbound,65,22:00,Friday
+31 to 32,Southbound,52,22:00,Friday
+32 to 33,Northbound,49,22:00,Friday
+32 to 33,Southbound,57,22:00,Friday
+33 to 34,Northbound,50,22:00,Friday
+33 to 34,Southbound,49,22:00,Friday
+34 to 35,Northbound,45,22:00,Friday
+34 to 35,Southbound,49,22:00,Friday
+35 to 35A,Northbound,54,22:00,Friday
+35 to 35A,Southbound,52,22:00,Friday
+35A to 36,Northbound,63,22:00,Friday
+35A to 36,Southbound,62,22:00,Friday
+36 to 37,Northbound,69,22:00,Friday
+36 to 37,Southbound,67,22:00,Friday
+37 to 38,Northbound,57,22:00,Friday
+37 to 38,Southbound,67,22:00,Friday
+38 to 39,Northbound,70,22:00,Friday
+38 to 39,Southbound,68,22:00,Friday
+39 to 40,Northbound,61,22:00,Friday
+39 to 40,Southbound,69,22:00,Friday
+40 to 41,Northbound,52,22:00,Friday
+40 to 41,Southbound,62,22:00,Friday
+41 to 42,Northbound,61,22:00,Friday
+41 to 42,Southbound,61,22:00,Friday
+42 to 43/44,Northbound,70,22:00,Friday
+42 to 43/44,Southbound,64,22:00,Friday
+43/44 to 45,Northbound,68,22:00,Friday
+43/44 to 45,Southbound,65,22:00,Friday
+45 to 46,Northbound,52,22:00,Friday
+45 to 46,Southbound,62,22:00,Friday
+46 to 47,Northbound,49,22:00,Friday
+46 to 47,Southbound,48,22:00,Friday
+47 to 48,Northbound,59,22:00,Friday
+47 to 48,Southbound,49,22:00,Friday
+1 to 2,Northbound,64,08:00,Saturday
+1 to 2,Southbound,63,08:00,Saturday
+2 to 4,Northbound,70,08:00,Saturday
+2 to 4,Southbound,65,08:00,Saturday
+4 to 5,Northbound,70,08:00,Saturday
+4 to 5,Southbound,69,08:00,Saturday
+5 to 6,Northbound,70,08:00,Saturday
+5 to 6,Southbound,69,08:00,Saturday
+6 to 6A,Northbound,70,08:00,Saturday
+6 to 6A,Southbound,70,08:00,Saturday
+6A to 7,Northbound,65,08:00,Saturday
+6A to 7,Southbound,60,08:00,Saturday
+7 to 8,Northbound,61,08:00,Saturday
+7 to 8,Southbound,60,08:00,Saturday
+8 to 9,Northbound,68,08:00,Saturday
+ 8 to 9,Southbound,61,08:00,Saturday
+9 to 10,Northbound,63,08:00,Saturday
+9 to 10,Southbound,61,08:00,Saturday
+10 to 11,Northbound,50,08:00,Saturday
+10 to 11,Southbound,50,08:00,Saturday
+11 to 11A,Northbound,49,08:00,Saturday
+11 to 11A,Southbound,48,08:00,Saturday
+11A to 12,Northbound,51,08:00,Saturday
+11A to 12,Southbound,49,08:00,Saturday
+12 to 13,Northbound,54,08:00,Saturday
+12 to 13,Southbound,49,08:00,Saturday
+13 to14,Northbound,68,08:00,Saturday
+13 to14,Southbound,58,08:00,Saturday
+14 to 15,Northbound,65,08:00,Saturday
+14 to15,Southbound,65,08:00,Saturday
+15 to 15A,Northbound,59,08:00,Saturday
+15 to 15A,Southbound,65,08:00,Saturday
+15A to 16,Northbound,70,08:00,Saturday
+15A to 16,Southbound,70,08:00,Saturday
+16 to 17,Northbound,70,08:00,Saturday
+16 to 17,Southbound,65,08:00,Saturday
+17 to 18,Northbound,70,08:00,Saturday
+17 to 18,Southbound,65,08:00,Saturday
+18 to 19,Northbound,69,08:00,Saturday
+18 to 19,Southbound,64,08:00,Saturday
+19 to 20,Northbound,67,08:00,Saturday
+19 to 20,Southbound,63,08:00,Saturday
+20 to 21,Northbound,69,08:00,Saturday
+20 to 21,Southbound,69,08:00,Saturday
+21 to 21A,Northbound,57,08:00,Saturday
+21 to 21A,Southbound,68,08:00,Saturday
+21A to 22,Northbound,62,08:00,Saturday
+21A to 22,Southbound,65,08:00,Saturday
+22 to 23,Northbound,70,08:00,Saturday
+22 to 23,Southbound,66,08:00,Saturday
+23 to 23A,Northbound,70,08:00,Saturday
+23 to 23A,Southbound,65,08:00,Saturday
+23A to 24,Northbound,69,08:00,Saturday
+23A to 24,Southbound,63,08:00,Saturday
+24 to 24A,Northbound,68,08:00,Saturday
+24 to 24A,Southbound,68,08:00,Saturday
+24A to 25,Northbound,66,08:00,Saturday
+24A to 25,Southbound,67,08:00,Saturday
+25 to 26,Northbound,66,08:00,Saturday
+25 to 26,Southbound,67,08:00,Saturday
+26 to 27,Northbound,69,08:00,Saturday
+26 to 27,Southbound,68,08:00,Saturday
+27 to 28,Northbound,70,08:00,Saturday
+27 to 28,Southbound,70,08:00,Saturday
+28 to 29,Northbound,70,08:00,Saturday
+28 to 29,Southbound,70,08:00,Saturday
+29 to 29A,Northbound,65,08:00,Saturday
+29 to 29A,Southbound,67,08:00,Saturday
+29A to 30,Northbound,49,08:00,Saturday
+29A to 30,Southbound,52,08:00,Saturday
+30 to 31,Northbound,50,08:00,Saturday
+30 to 31,Southbound,49,08:00,Saturday
+31 to 32,Northbound,66,08:00,Saturday
+31 to 32,Southbound,51,08:00,Saturday
+32 to 33,Northbound,51,08:00,Saturday
+32 to 33,Southbound,50,08:00,Saturday
+33 to 34,Northbound,48,08:00,Saturday
+33 to 34,Southbound,51,08:00,Saturday
+34 to 35,Northbound,50,08:00,Saturday
+34 to 35,Southbound,51,08:00,Saturday
+35 to 35A,Northbound,62,08:00,Saturday
+35 to 35A,Southbound,54,08:00,Saturday
+35A to 36,Northbound,66,08:00,Saturday
+35A to 36,Southbound,68,08:00,Saturday
+36 to 37,Northbound,69,08:00,Saturday
+36 to 37,Southbound,70,08:00,Saturday
+37 to 38,Northbound,69,08:00,Saturday
+37 to 38,Southbound,70,08:00,Saturday
+38 to 39,Northbound,66,08:00,Saturday
+38 to 39,Southbound,70,08:00,Saturday
+39 to 40,Northbound,64,08:00,Saturday
+39 to 40,Southbound,70,08:00,Saturday
+40 to 41,Northbound,68,08:00,Saturday
+40 to 41,Southbound,70,08:00,Saturday
+41 to 42,Northbound,66,08:00,Saturday
+41 to 42,Southbound,70,08:00,Saturday
+42 to 43/44,Northbound,66,08:00,Saturday
+42 to 43/44,Southbound,66,08:00,Saturday
+43/44 to 45,Northbound,66,08:00,Saturday
+43/44 to 45,Southbound,68,08:00,Saturday
+45 to 46,Northbound,50,08:00,Saturday
+45 to 46,Southbound,61,08:00,Saturday
+46 to 47,Northbound,48,08:00,Saturday
+46 to 47,Southbound,50,08:00,Saturday
+47 to 48,Northbound,53,08:00,Saturday
+47 to 48,Southbound,49,08:00,Saturday
+1 to 2,Northbound,66,13:00,Saturday
+1 to 2,Southbound,63,13:00,Saturday
+2 to 4,Northbound,70,13:00,Saturday
+2 to 4,Southbound,69,13:00,Saturday
+4 to 5,Northbound,70,13:00,Saturday
+4 to 5,Southbound,66,13:00,Saturday
+5 to 6,Northbound,69,13:00,Saturday
+5 to 6,Southbound,68,13:00,Saturday
+6 to 6A,Northbound,69,13:00,Saturday
+6 to 6A,Southbound,70,13:00,Saturday
+6A to 7,Northbound,64,13:00,Saturday
+6A to 7,Southbound,63,13:00,Saturday
+7 to 8,Northbound,57,13:00,Saturday
+7 to 8,Southbound,60,13:00,Saturday
+8 to 9,Northbound,50,13:00,Saturday
+ 8 to 9,Southbound,64,13:00,Saturday
+9 to 10,Northbound,23,13:00,Saturday
+9 to 10,Southbound,61,13:00,Saturday
+10 to 11,Northbound,49,13:00,Saturday
+10 to 11,Southbound,42,13:00,Saturday
+11 to 11A,Northbound,46,13:00,Saturday
+11 to 11A,Southbound,24,13:00,Saturday
+11A to 12,Northbound,51,13:00,Saturday
+11A to 12,Southbound,31,13:00,Saturday
+12 to 13,Northbound,50,13:00,Saturday
+12 to 13,Southbound,49,13:00,Saturday
+13 to14,Northbound,63,13:00,Saturday
+13 to14,Southbound,61,13:00,Saturday
+14 to 15,Northbound,66,13:00,Saturday
+14 to15,Southbound,70,13:00,Saturday
+15 to 15A,Northbound,62,13:00,Saturday
+15 to 15A,Southbound,67,13:00,Saturday
+15A to 16,Northbound,65,13:00,Saturday
+15A to 16,Southbound,67,13:00,Saturday
+16 to 17,Northbound,68,13:00,Saturday
+16 to 17,Southbound,70,13:00,Saturday
+17 to 18,Northbound,70,13:00,Saturday
+17 to 18,Southbound,68,13:00,Saturday
+18 to 19,Northbound,67,13:00,Saturday
+18 to 19,Southbound,70,13:00,Saturday
+19 to 20,Northbound,70,13:00,Saturday
+19 to 20,Southbound,63,13:00,Saturday
+20 to 21,Northbound,70,13:00,Saturday
+20 to 21,Southbound,65,13:00,Saturday
+21 to 21A,Northbound,66,13:00,Saturday
+21 to 21A,Southbound,66,13:00,Saturday
+21A to 22,Northbound,70,13:00,Saturday
+21A to 22,Southbound,70,13:00,Saturday
+22 to 23,Northbound,70,13:00,Saturday
+22 to 23,Southbound,68,13:00,Saturday
+23 to 23A,Northbound,70,13:00,Saturday
+23 to 23A,Southbound,65,13:00,Saturday
+23A to 24,Northbound,69,13:00,Saturday
+23A to 24,Southbound,57,13:00,Saturday
+24 to 24A,Northbound,68,13:00,Saturday
+24 to 24A,Southbound,42,13:00,Saturday
+24A to 25,Northbound,67,13:00,Saturday
+24A to 25,Southbound,68,13:00,Saturday
+25 to 26,Northbound,69,13:00,Saturday
+25 to 26,Southbound,70,13:00,Saturday
+26 to 27,Northbound,70,13:00,Saturday
+26 to 27,Southbound,70,13:00,Saturday
+27 to 28,Northbound,66,13:00,Saturday
+27 to 28,Southbound,70,13:00,Saturday
+28 to 29,Northbound,69,13:00,Saturday
+28 to 29,Southbound,67,13:00,Saturday
+29 to 29A,Northbound,66,13:00,Saturday
+29 to 29A,Southbound,62,13:00,Saturday
+29A to 30,Northbound,48,13:00,Saturday
+29A to 30,Southbound,49,13:00,Saturday
+30 to 31,Northbound,51,13:00,Saturday
+30 to 31,Southbound,48,13:00,Saturday
+31 to 32,Northbound,36,13:00,Saturday
+31 to 32,Southbound,51,13:00,Saturday
+32 to 33,Northbound,30,13:00,Saturday
+32 to 33,Southbound,54,13:00,Saturday
+33 to 34,Northbound,48,13:00,Saturday
+33 to 34,Southbound,47,13:00,Saturday
+34 to 35,Northbound,46,13:00,Saturday
+34 to 35,Southbound,47,13:00,Saturday
+35 to 35A,Northbound,59,13:00,Saturday
+35 to 35A,Southbound,48,13:00,Saturday
+35A to 36,Northbound,67,13:00,Saturday
+35A to 36,Southbound,64,13:00,Saturday
+36 to 37,Northbound,68,13:00,Saturday
+36 to 37,Southbound,69,13:00,Saturday
+37 to 38,Northbound,70,13:00,Saturday
+37 to 38,Southbound,69,13:00,Saturday
+38 to 39,Northbound,70,13:00,Saturday
+38 to 39,Southbound,69,13:00,Saturday
+39 to 40,Northbound,66,13:00,Saturday
+39 to 40,Southbound,68,13:00,Saturday
+40 to 41,Northbound,65,13:00,Saturday
+40 to 41,Southbound,68,13:00,Saturday
+41 to 42,Northbound,65,13:00,Saturday
+41 to 42,Southbound,66,13:00,Saturday
+42 to 43/44,Northbound,67,13:00,Saturday
+42 to 43/44,Southbound,63,13:00,Saturday
+43/44 to 45,Northbound,51,13:00,Saturday
+43/44 to 45,Southbound,65,13:00,Saturday
+45 to 46,Northbound,33,13:00,Saturday
+45 to 46,Southbound,58,13:00,Saturday
+46 to 47,Northbound,47,13:00,Saturday
+46 to 47,Southbound,41,13:00,Saturday
+47 to 48,Northbound,55,13:00,Saturday
+47 to 48,Southbound,46,13:00,Saturday
+1 to 2,Northbound,69,18:00,Saturday
+1 to 2,Southbound,62,18:00,Saturday
+2 to 4,Northbound,67,18:00,Saturday
+2 to 4,Southbound,70,18:00,Saturday
+4 to 5,Northbound,70,18:00,Saturday
+4 to 5,Southbound,66,18:00,Saturday
+5 to 6,Northbound,70,18:00,Saturday
+5 to 6,Southbound,70,18:00,Saturday
+6 to 6A,Northbound,68,18:00,Saturday
+6 to 6A,Southbound,70,18:00,Saturday
+6A to 7,Northbound,66,18:00,Saturday
+6A to 7,Southbound,62,18:00,Saturday
+7 to 8,Northbound,52,18:00,Saturday
+7 to 8,Southbound,58,18:00,Saturday
+8 to 9,Northbound,67,18:00,Saturday
+ 8 to 9,Southbound,62,18:00,Saturday
+9 to 10,Northbound,59,18:00,Saturday
+9 to 10,Southbound,62,18:00,Saturday
+10 to 11,Northbound,47,18:00,Saturday
+10 to 11,Southbound,48,18:00,Saturday
+11 to 11A,Northbound,47,18:00,Saturday
+11 to 11A,Southbound,46,18:00,Saturday
+11A to 12,Northbound,48,18:00,Saturday
+11A to 12,Southbound,46,18:00,Saturday
+12 to 13,Northbound,48,18:00,Saturday
+12 to 13,Southbound,47,18:00,Saturday
+13 to14,Northbound,63,18:00,Saturday
+13 to14,Southbound,61,18:00,Saturday
+14 to 15,Northbound,64,18:00,Saturday
+14 to15,Southbound,70,18:00,Saturday
+15 to 15A,Northbound,69,18:00,Saturday
+15 to 15A,Southbound,68,18:00,Saturday
+15A to 16,Northbound,69,18:00,Saturday
+15A to 16,Southbound,67,18:00,Saturday
+16 to 17,Northbound,70,18:00,Saturday
+16 to 17,Southbound,70,18:00,Saturday
+17 to 18,Northbound,70,18:00,Saturday
+17 to 18,Southbound,70,18:00,Saturday
+18 to 19,Northbound,68,18:00,Saturday
+18 to 19,Southbound,68,18:00,Saturday
+19 to 20,Northbound,70,18:00,Saturday
+19 to 20,Southbound,70,18:00,Saturday
+20 to 21,Northbound,70,18:00,Saturday
+20 to 21,Southbound,70,18:00,Saturday
+21 to 21A,Northbound,65,18:00,Saturday
+21 to 21A,Southbound,69,18:00,Saturday
+21A to 22,Northbound,70,18:00,Saturday
+21A to 22,Southbound,70,18:00,Saturday
+22 to 23,Northbound,70,18:00,Saturday
+22 to 23,Southbound,70,18:00,Saturday
+23 to 23A,Northbound,70,18:00,Saturday
+23 to 23A,Southbound,70,18:00,Saturday
+23A to 24,Northbound,69,18:00,Saturday
+23A to 24,Southbound,69,18:00,Saturday
+24 to 24A,Northbound,70,18:00,Saturday
+24 to 24A,Southbound,69,18:00,Saturday
+24A to 25,Northbound,70,18:00,Saturday
+24A to 25,Southbound,70,18:00,Saturday
+25 to 26,Northbound,67,18:00,Saturday
+25 to 26,Southbound,70,18:00,Saturday
+26 to 27,Northbound,70,18:00,Saturday
+26 to 27,Southbound,70,18:00,Saturday
+27 to 28,Northbound,70,18:00,Saturday
+27 to 28,Southbound,70,18:00,Saturday
+28 to 29,Northbound,70,18:00,Saturday
+28 to 29,Southbound,67,18:00,Saturday
+29 to 29A,Northbound,70,18:00,Saturday
+29 to 29A,Southbound,70,18:00,Saturday
+29A to 30,Northbound,50,18:00,Saturday
+29A to 30,Southbound,53,18:00,Saturday
+30 to 31,Northbound,51,18:00,Saturday
+30 to 31,Southbound,48,18:00,Saturday
+31 to 32,Northbound,65,18:00,Saturday
+31 to 32,Southbound,50,18:00,Saturday
+32 to 33,Northbound,49,18:00,Saturday
+32 to 33,Southbound,54,18:00,Saturday
+33 to 34,Northbound,48,18:00,Saturday
+33 to 34,Southbound,48,18:00,Saturday
+34 to 35,Northbound,49,18:00,Saturday
+34 to 35,Southbound,50,18:00,Saturday
+35 to 35A,Northbound,63,18:00,Saturday
+35 to 35A,Southbound,50,18:00,Saturday
+35A to 36,Northbound,68,18:00,Saturday
+35A to 36,Southbound,67,18:00,Saturday
+36 to 37,Northbound,69,18:00,Saturday
+36 to 37,Southbound,70,18:00,Saturday
+37 to 38,Northbound,70,18:00,Saturday
+37 to 38,Southbound,68,18:00,Saturday
+38 to 39,Northbound,70,18:00,Saturday
+38 to 39,Southbound,68,18:00,Saturday
+39 to 40,Northbound,68,18:00,Saturday
+39 to 40,Southbound,66,18:00,Saturday
+40 to 41,Northbound,70,18:00,Saturday
+40 to 41,Southbound,65,18:00,Saturday
+41 to 42,Northbound,70,18:00,Saturday
+41 to 42,Southbound,66,18:00,Saturday
+42 to 43/44,Northbound,70,18:00,Saturday
+42 to 43/44,Southbound,65,18:00,Saturday
+43/44 to 45,Northbound,65,18:00,Saturday
+43/44 to 45,Southbound,67,18:00,Saturday
+45 to 46,Northbound,50,18:00,Saturday
+45 to 46,Southbound,61,18:00,Saturday
+46 to 47,Northbound,48,18:00,Saturday
+46 to 47,Southbound,47,18:00,Saturday
+47 to 48,Northbound,58,18:00,Saturday
+47 to 48,Southbound,48,18:00,Saturday
+1 to 2,Northbound,66,22:00,Saturday
+1 to 2,Southbound,53,22:00,Saturday
+2 to 4,Northbound,67,22:00,Saturday
+2 to 4,Southbound,65,22:00,Saturday
+4 to 5,Northbound,68,22:00,Saturday
+4 to 5,Southbound,68,22:00,Saturday
+5 to 6,Northbound,70,22:00,Saturday
+5 to 6,Southbound,65,22:00,Saturday
+6 to 6A,Northbound,69,22:00,Saturday
+6 to 6A,Southbound,68,22:00,Saturday
+6A to 7,Northbound,63,22:00,Saturday
+6A to 7,Southbound,65,22:00,Saturday
+7 to 8,Northbound,57,22:00,Saturday
+7 to 8,Southbound,62,22:00,Saturday
+8 to 9,Northbound,68,22:00,Saturday
+ 8 to 9,Southbound,63,22:00,Saturday
+9 to 10,Northbound,62,22:00,Saturday
+9 to 10,Southbound,63,22:00,Saturday
+10 to 11,Northbound,49,22:00,Saturday
+10 to 11,Southbound,49,22:00,Saturday
+11 to 11A,Northbound,53,22:00,Saturday
+11 to 11A,Southbound,48,22:00,Saturday
+11A to 12,Northbound,47,22:00,Saturday
+11A to 12,Southbound,48,22:00,Saturday
+12 to 13,Northbound,47,22:00,Saturday
+12 to 13,Southbound,49,22:00,Saturday
+13 to14,Northbound,58,22:00,Saturday
+13 to14,Southbound,60,22:00,Saturday
+14 to 15,Northbound,60,22:00,Saturday
+14 to15,Southbound,70,22:00,Saturday
+15 to 15A,Northbound,64,22:00,Saturday
+15 to 15A,Southbound,69,22:00,Saturday
+15A to 16,Northbound,64,22:00,Saturday
+15A to 16,Southbound,67,22:00,Saturday
+16 to 17,Northbound,67,22:00,Saturday
+16 to 17,Southbound,66,22:00,Saturday
+17 to 18,Northbound,69,22:00,Saturday
+17 to 18,Southbound,65,22:00,Saturday
+18 to 19,Northbound,70,22:00,Saturday
+18 to 19,Southbound,64,22:00,Saturday
+19 to 20,Northbound,66,22:00,Saturday
+19 to 20,Southbound,68,22:00,Saturday
+20 to 21,Northbound,69,22:00,Saturday
+20 to 21,Southbound,70,22:00,Saturday
+21 to 21A,Northbound,66,22:00,Saturday
+21 to 21A,Southbound,70,22:00,Saturday
+21A to 22,Northbound,70,22:00,Saturday
+21A to 22,Southbound,70,22:00,Saturday
+22 to 23,Northbound,70,22:00,Saturday
+22 to 23,Southbound,70,22:00,Saturday
+23 to 23A,Northbound,70,22:00,Saturday
+23 to 23A,Southbound,69,22:00,Saturday
+23A to 24,Northbound,70,22:00,Saturday
+23A to 24,Southbound,61,22:00,Saturday
+24 to 24A,Northbound,70,22:00,Saturday
+24 to 24A,Southbound,63,22:00,Saturday
+24A to 25,Northbound,70,22:00,Saturday
+24A to 25,Southbound,70,22:00,Saturday
+25 to 26,Northbound,69,22:00,Saturday
+25 to 26,Southbound,70,22:00,Saturday
+26 to 27,Northbound,70,22:00,Saturday
+26 to 27,Southbound,70,22:00,Saturday
+27 to 28,Northbound,70,22:00,Saturday
+27 to 28,Southbound,69,22:00,Saturday
+28 to 29,Northbound,70,22:00,Saturday
+28 to 29,Southbound,62,22:00,Saturday
+29 to 29A,Northbound,70,22:00,Saturday
+29 to 29A,Southbound,59,22:00,Saturday
+29A to 30,Northbound,49,22:00,Saturday
+29A to 30,Southbound,52,22:00,Saturday
+30 to 31,Northbound,51,22:00,Saturday
+30 to 31,Southbound,47,22:00,Saturday
+31 to 32,Northbound,68,22:00,Saturday
+31 to 32,Southbound,52,22:00,Saturday
+32 to 33,Northbound,50,22:00,Saturday
+32 to 33,Southbound,54,22:00,Saturday
+33 to 34,Northbound,49,22:00,Saturday
+33 to 34,Southbound,49,22:00,Saturday
+34 to 35,Northbound,50,22:00,Saturday
+34 to 35,Southbound,49,22:00,Saturday
+35 to 35A,Northbound,54,22:00,Saturday
+35 to 35A,Southbound,49,22:00,Saturday
+35A to 36,Northbound,68,22:00,Saturday
+35A to 36,Southbound,64,22:00,Saturday
+36 to 37,Northbound,70,22:00,Saturday
+36 to 37,Southbound,68,22:00,Saturday
+37 to 38,Northbound,56,22:00,Saturday
+37 to 38,Southbound,70,22:00,Saturday
+38 to 39,Northbound,70,22:00,Saturday
+38 to 39,Southbound,68,22:00,Saturday
+39 to 40,Northbound,70,22:00,Saturday
+39 to 40,Southbound,68,22:00,Saturday
+40 to 41,Northbound,70,22:00,Saturday
+40 to 41,Southbound,68,22:00,Saturday
+41 to 42,Northbound,69,22:00,Saturday
+41 to 42,Southbound,64,22:00,Saturday
+42 to 43/44,Northbound,70,22:00,Saturday
+42 to 43/44,Southbound,70,22:00,Saturday
+43/44 to 45,Northbound,66,22:00,Saturday
+43/44 to 45,Southbound,29,22:00,Saturday
+45 to 46,Northbound,53,22:00,Saturday
+45 to 46,Southbound,50,22:00,Saturday
+46 to 47,Northbound,50,22:00,Saturday
+46 to 47,Southbound,49,22:00,Saturday
+47 to 48,Northbound,60,22:00,Saturday
+47 to 48,Southbound,50,22:00,Saturday
+1 to 2,Northbound,63,08:00,Sunday
+1 to 2,Southbound,68,08:00,Sunday
+2 to 4,Northbound,65,08:00,Sunday
+2 to 4,Southbound,70,08:00,Sunday
+4 to 5,Northbound,67,08:00,Sunday
+4 to 5,Southbound,70,08:00,Sunday
+5 to 6,Northbound,69,08:00,Sunday
+5 to 6,Southbound,69,08:00,Sunday
+6 to 6A,Northbound,70,08:00,Sunday
+6 to 6A,Southbound,70,08:00,Sunday
+6A to 7,Northbound,68,08:00,Sunday
+6A to 7,Southbound,68,08:00,Sunday
+7 to 8,Northbound,56,08:00,Sunday
+7 to 8,Southbound,63,08:00,Sunday
+8 to 9,Northbound,67,08:00,Sunday
+ 8 to 9,Southbound,64,08:00,Sunday
+9 to 10,Northbound,59,08:00,Sunday
+9 to 10,Southbound,61,08:00,Sunday
+10 to 11,Northbound,49,08:00,Sunday
+10 to 11,Southbound,50,08:00,Sunday
+11 to 11A,Northbound,48,08:00,Sunday
+11 to 11A,Southbound,49,08:00,Sunday
+11A to 12,Northbound,48,08:00,Sunday
+11A to 12,Southbound,49,08:00,Sunday
+12 to 13,Northbound,48,08:00,Sunday
+12 to 13,Southbound,49,08:00,Sunday
+13 to14,Northbound,55,08:00,Sunday
+13 to14,Southbound,65,08:00,Sunday
+14 to 15,Northbound,67,08:00,Sunday
+14 to15,Southbound,69,08:00,Sunday
+15 to 15A,Northbound,67,08:00,Sunday
+15 to 15A,Southbound,68,08:00,Sunday
+15A to 16,Northbound,64,08:00,Sunday
+15A to 16,Southbound,65,08:00,Sunday
+16 to 17,Northbound,66,08:00,Sunday
+16 to 17,Southbound,69,08:00,Sunday
+17 to 18,Northbound,68,08:00,Sunday
+17 to 18,Southbound,70,08:00,Sunday
+18 to 19,Northbound,67,08:00,Sunday
+18 to 19,Southbound,70,08:00,Sunday
+19 to 20,Northbound,65,08:00,Sunday
+19 to 20,Southbound,66,08:00,Sunday
+20 to 21,Northbound,67,08:00,Sunday
+20 to 21,Southbound,70,08:00,Sunday
+21 to 21A,Northbound,70,08:00,Sunday
+21 to 21A,Southbound,70,08:00,Sunday
+21A to 22,Northbound,70,08:00,Sunday
+21A to 22,Southbound,70,08:00,Sunday
+22 to 23,Northbound,70,08:00,Sunday
+22 to 23,Southbound,68,08:00,Sunday
+23 to 23A,Northbound,70,08:00,Sunday
+23 to 23A,Southbound,69,08:00,Sunday
+23A to 24,Northbound,70,08:00,Sunday
+23A to 24,Southbound,68,08:00,Sunday
+24 to 24A,Northbound,70,08:00,Sunday
+24 to 24A,Southbound,69,08:00,Sunday
+24A to 25,Northbound,69,08:00,Sunday
+24A to 25,Southbound,68,08:00,Sunday
+25 to 26,Northbound,68,08:00,Sunday
+25 to 26,Southbound,69,08:00,Sunday
+26 to 27,Northbound,69,08:00,Sunday
+26 to 27,Southbound,62,08:00,Sunday
+27 to 28,Northbound,69,08:00,Sunday
+27 to 28,Southbound,67,08:00,Sunday
+28 to 29,Northbound,68,08:00,Sunday
+28 to 29,Southbound,70,08:00,Sunday
+29 to 29A,Northbound,70,08:00,Sunday
+29 to 29A,Southbound,70,08:00,Sunday
+29A to 30,Northbound,51,08:00,Sunday
+29A to 30,Southbound,54,08:00,Sunday
+30 to 31,Northbound,54,08:00,Sunday
+30 to 31,Southbound,54,08:00,Sunday
+31 to 32,Northbound,67,08:00,Sunday
+31 to 32,Southbound,55,08:00,Sunday
+32 to 33,Northbound,53,08:00,Sunday
+32 to 33,Southbound,54,08:00,Sunday
+33 to 34,Northbound,53,08:00,Sunday
+33 to 34,Southbound,49,08:00,Sunday
+34 to 35,Northbound,51,08:00,Sunday
+34 to 35,Southbound,50,08:00,Sunday
+35 to 35A,Northbound,63,08:00,Sunday
+35 to 35A,Southbound,53,08:00,Sunday
+35A to 36,Northbound,67,08:00,Sunday
+35A to 36,Southbound,66,08:00,Sunday
+36 to 37,Northbound,69,08:00,Sunday
+36 to 37,Southbound,70,08:00,Sunday
+37 to 38,Northbound,70,08:00,Sunday
+37 to 38,Southbound,70,08:00,Sunday
+38 to 39,Northbound,70,08:00,Sunday
+38 to 39,Southbound,70,08:00,Sunday
+39 to 40,Northbound,70,08:00,Sunday
+39 to 40,Southbound,68,08:00,Sunday
+40 to 41,Northbound,70,08:00,Sunday
+40 to 41,Southbound,70,08:00,Sunday
+41 to 42,Northbound,65,08:00,Sunday
+41 to 42,Southbound,70,08:00,Sunday
+42 to 43/44,Northbound,70,08:00,Sunday
+42 to 43/44,Southbound,68,08:00,Sunday
+43/44 to 45,Northbound,66,08:00,Sunday
+43/44 to 45,Southbound,68,08:00,Sunday
+45 to 46,Northbound,61,08:00,Sunday
+45 to 46,Southbound,66,08:00,Sunday
+46 to 47,Northbound,49,08:00,Sunday
+46 to 47,Southbound,49,08:00,Sunday
+47 to 48,Northbound,58,08:00,Sunday
+47 to 48,Southbound,50,08:00,Sunday
+1 to 2,Northbound,70,13:00,Sunday
+1 to 2,Southbound,56,13:00,Sunday
+2 to 4,Northbound,70,13:00,Sunday
+2 to 4,Southbound,64,13:00,Sunday
+4 to 5,Northbound,70,13:00,Sunday
+4 to 5,Southbound,69,13:00,Sunday
+5 to 6,Northbound,69,13:00,Sunday
+5 to 6,Southbound,70,13:00,Sunday
+6 to 6A,Northbound,64,13:00,Sunday
+6 to 6A,Southbound,65,13:00,Sunday
+6A to 7,Northbound,56,13:00,Sunday
+6A to 7,Southbound,56,13:00,Sunday
+7 to 8,Northbound,67,13:00,Sunday
+7 to 8,Southbound,65,13:00,Sunday
+8 to 9,Northbound,67,13:00,Sunday
+ 8 to 9,Southbound,65,13:00,Sunday
+9 to 10,Northbound,61,13:00,Sunday
+9 to 10,Southbound,64,13:00,Sunday
+10 to 11,Northbound,47,13:00,Sunday
+10 to 11,Southbound,42,13:00,Sunday
+11 to 11A,Northbound,47,13:00,Sunday
+11 to 11A,Southbound,32,13:00,Sunday
+11A to 12,Northbound,48,13:00,Sunday
+11A to 12,Southbound,44,13:00,Sunday
+12 to 13,Northbound,48,13:00,Sunday
+12 to 13,Southbound,48,13:00,Sunday
+13 to14,Northbound,66,13:00,Sunday
+13 to14,Southbound,63,13:00,Sunday
+14 to 15,Northbound,68,13:00,Sunday
+14 to15,Southbound,68,13:00,Sunday
+15 to 15A,Northbound,66,13:00,Sunday
+15 to 15A,Southbound,68,13:00,Sunday
+15A to 16,Northbound,63,13:00,Sunday
+15A to 16,Southbound,68,13:00,Sunday
+16 to 17,Northbound,70,13:00,Sunday
+16 to 17,Southbound,67,13:00,Sunday
+17 to 18,Northbound,70,13:00,Sunday
+17 to 18,Southbound,66,13:00,Sunday
+18 to 19,Northbound,69,13:00,Sunday
+18 to 19,Southbound,69,13:00,Sunday
+19 to 20,Northbound,67,13:00,Sunday
+19 to 20,Southbound,70,13:00,Sunday
+20 to 21,Northbound,70,13:00,Sunday
+20 to 21,Southbound,70,13:00,Sunday
+21 to 21A,Northbound,64,13:00,Sunday
+21 to 21A,Southbound,68,13:00,Sunday
+21A to 22,Northbound,70,13:00,Sunday
+21A to 22,Southbound,70,13:00,Sunday
+22 to 23,Northbound,70,13:00,Sunday
+22 to 23,Southbound,70,13:00,Sunday
+23 to 23A,Northbound,70,13:00,Sunday
+23 to 23A,Southbound,69,13:00,Sunday
+23A to 24,Northbound,67,13:00,Sunday
+23A to 24,Southbound,67,13:00,Sunday
+24 to 24A,Northbound,70,13:00,Sunday
+24 to 24A,Southbound,67,13:00,Sunday
+24A to 25,Northbound,69,13:00,Sunday
+24A to 25,Southbound,68,13:00,Sunday
+25 to 26,Northbound,69,13:00,Sunday
+25 to 26,Southbound,67,13:00,Sunday
+26 to 27,Northbound,68,13:00,Sunday
+26 to 27,Southbound,65,13:00,Sunday
+27 to 28,Northbound,69,13:00,Sunday
+27 to 28,Southbound,67,13:00,Sunday
+28 to 29,Northbound,70,13:00,Sunday
+28 to 29,Southbound,67,13:00,Sunday
+29 to 29A,Northbound,70,13:00,Sunday
+29 to 29A,Southbound,62,13:00,Sunday
+29A to 30,Northbound,55,13:00,Sunday
+29A to 30,Southbound,49,13:00,Sunday
+30 to 31,Northbound,52,13:00,Sunday
+30 to 31,Southbound,47,13:00,Sunday
+31 to 32,Northbound,56,13:00,Sunday
+31 to 32,Southbound,51,13:00,Sunday
+32 to 33,Northbound,46,13:00,Sunday
+32 to 33,Southbound,55,13:00,Sunday
+33 to 34,Northbound,48,13:00,Sunday
+33 to 34,Southbound,48,13:00,Sunday
+34 to 35,Northbound,48,13:00,Sunday
+34 to 35,Southbound,49,13:00,Sunday
+35 to 35A,Northbound,62,13:00,Sunday
+35 to 35A,Southbound,50,13:00,Sunday
+35A to 36,Northbound,70,13:00,Sunday
+35A to 36,Southbound,64,13:00,Sunday
+36 to 37,Northbound,70,13:00,Sunday
+36 to 37,Southbound,70,13:00,Sunday
+37 to 38,Northbound,69,13:00,Sunday
+37 to 38,Southbound,70,13:00,Sunday
+38 to 39,Northbound,70,13:00,Sunday
+38 to 39,Southbound,70,13:00,Sunday
+39 to 40,Northbound,69,13:00,Sunday
+39 to 40,Southbound,70,13:00,Sunday
+40 to 41,Northbound,64,13:00,Sunday
+40 to 41,Southbound,70,13:00,Sunday
+41 to 42,Northbound,62,13:00,Sunday
+41 to 42,Southbound,68,13:00,Sunday
+42 to 43/44,Northbound,67,13:00,Sunday
+42 to 43/44,Southbound,67,13:00,Sunday
+43/44 to 45,Northbound,65,13:00,Sunday
+43/44 to 45,Southbound,66,13:00,Sunday
+45 to 46,Northbound,50,13:00,Sunday
+45 to 46,Southbound,59,13:00,Sunday
+46 to 47,Northbound,48,13:00,Sunday
+46 to 47,Southbound,48,13:00,Sunday
+47 to 48,Northbound,55,13:00,Sunday
+47 to 48,Southbound,49,13:00,Sunday
+1 to 2,Northbound,69,18:00,Sunday
+1 to 2,Southbound,69,18:00,Sunday
+2 to 4,Northbound,70,18:00,Sunday
+2 to 4,Southbound,70,18:00,Sunday
+4 to 5,Northbound,70,18:00,Sunday
+4 to 5,Southbound,70,18:00,Sunday
+5 to 6,Northbound,70,18:00,Sunday
+5 to 6,Southbound,70,18:00,Sunday
+6 to 6A,Northbound,66,18:00,Sunday
+6 to 6A,Southbound,69,18:00,Sunday
+6A to 7,Northbound,63,18:00,Sunday
+6A to 7,Southbound,60,18:00,Sunday
+7 to 8,Northbound,62,18:00,Sunday
+7 to 8,Southbound,55,18:00,Sunday
+8 to 9,Northbound,62,18:00,Sunday
+ 8 to 9,Southbound,62,18:00,Sunday
+9 to 10,Northbound,52,18:00,Sunday
+9 to 10,Southbound,63,18:00,Sunday
+10 to 11,Northbound,39,18:00,Sunday
+10 to 11,Southbound,39,18:00,Sunday
+11 to 11A,Northbound,47,18:00,Sunday
+11 to 11A,Southbound,16,18:00,Sunday
+11A to 12,Northbound,47,18:00,Sunday
+11A to 12,Southbound,13,18:00,Sunday
+12 to 13,Northbound,48,18:00,Sunday
+12 to 13,Southbound,36,18:00,Sunday
+13 to14,Northbound,65,18:00,Sunday
+13 to14,Southbound,59,18:00,Sunday
+14 to 15,Northbound,66,18:00,Sunday
+14 to15,Southbound,68,18:00,Sunday
+15 to 15A,Northbound,64,18:00,Sunday
+15 to 15A,Southbound,67,18:00,Sunday
+15A to 16,Northbound,64,18:00,Sunday
+15A to 16,Southbound,68,18:00,Sunday
+16 to 17,Northbound,70,18:00,Sunday
+16 to 17,Southbound,70,18:00,Sunday
+17 to 18,Northbound,70,18:00,Sunday
+17 to 18,Southbound,70,18:00,Sunday
+18 to 19,Northbound,66,18:00,Sunday
+18 to 19,Southbound,70,18:00,Sunday
+19 to 20,Northbound,70,18:00,Sunday
+19 to 20,Southbound,70,18:00,Sunday
+20 to 21,Northbound,70,18:00,Sunday
+20 to 21,Southbound,70,18:00,Sunday
+21 to 21A,Northbound,69,18:00,Sunday
+21 to 21A,Southbound,70,18:00,Sunday
+21A to 22,Northbound,70,18:00,Sunday
+21A to 22,Southbound,70,18:00,Sunday
+22 to 23,Northbound,70,18:00,Sunday
+22 to 23,Southbound,70,18:00,Sunday
+23 to 23A,Northbound,70,18:00,Sunday
+23 to 23A,Southbound,66,18:00,Sunday
+23A to 24,Northbound,69,18:00,Sunday
+23A to 24,Southbound,63,18:00,Sunday
+24 to 24A,Northbound,66,18:00,Sunday
+24 to 24A,Southbound,68,18:00,Sunday
+24A to 25,Northbound,68,18:00,Sunday
+24A to 25,Southbound,67,18:00,Sunday
+25 to 26,Northbound,70,18:00,Sunday
+25 to 26,Southbound,68,18:00,Sunday
+26 to 27,Northbound,70,18:00,Sunday
+26 to 27,Southbound,70,18:00,Sunday
+27 to 28,Northbound,70,18:00,Sunday
+27 to 28,Southbound,68,18:00,Sunday
+28 to 29,Northbound,70,18:00,Sunday
+28 to 29,Southbound,67,18:00,Sunday
+29 to 29A,Northbound,64,18:00,Sunday
+29 to 29A,Southbound,68,18:00,Sunday
+29A to 30,Northbound,49,18:00,Sunday
+29A to 30,Southbound,52,18:00,Sunday
+30 to 31,Northbound,50,18:00,Sunday
+30 to 31,Southbound,48,18:00,Sunday
+31 to 32,Northbound,66,18:00,Sunday
+31 to 32,Southbound,51,18:00,Sunday
+32 to 33,Northbound,49,18:00,Sunday
+32 to 33,Southbound,57,18:00,Sunday
+33 to 34,Northbound,48,18:00,Sunday
+33 to 34,Southbound,49,18:00,Sunday
+34 to 35,Northbound,49,18:00,Sunday
+34 to 35,Southbound,48,18:00,Sunday
+35 to 35A,Northbound,66,18:00,Sunday
+35 to 35A,Southbound,50,18:00,Sunday
+35A to 36,Northbound,70,18:00,Sunday
+35A to 36,Southbound,68,18:00,Sunday
+36 to 37,Northbound,70,18:00,Sunday
+36 to 37,Southbound,70,18:00,Sunday
+37 to 38,Northbound,70,18:00,Sunday
+37 to 38,Southbound,70,18:00,Sunday
+38 to 39,Northbound,70,18:00,Sunday
+38 to 39,Southbound,69,18:00,Sunday
+39 to 40,Northbound,70,18:00,Sunday
+39 to 40,Southbound,67,18:00,Sunday
+40 to 41,Northbound,68,18:00,Sunday
+40 to 41,Southbound,68,18:00,Sunday
+41 to 42,Northbound,70,18:00,Sunday
+41 to 42,Southbound,65,18:00,Sunday
+42 to 43/44,Northbound,69,18:00,Sunday
+42 to 43/44,Southbound,68,18:00,Sunday
+43/44 to 45,Northbound,64,18:00,Sunday
+43/44 to 45,Southbound,66,18:00,Sunday
+45 to 46,Northbound,50,18:00,Sunday
+45 to 46,Southbound,58,18:00,Sunday
+46 to 47,Northbound,49,18:00,Sunday
+46 to 47,Southbound,35,18:00,Sunday
+47 to 48,Northbound,58,18:00,Sunday
+47 to 48,Southbound,32,18:00,Sunday
+1 to 2,Northbound,61,22:00,Sunday
+1 to 2,Southbound,62,22:00,Sunday
+2 to 4,Northbound,64,22:00,Sunday
+2 to 4,Southbound,68,22:00,Sunday
+4 to 5,Northbound,61,22:00,Sunday
+4 to 5,Southbound,66,22:00,Sunday
+5 to 6,Northbound,70,22:00,Sunday
+5 to 6,Southbound,68,22:00,Sunday
+6 to 6A,Northbound,68,22:00,Sunday
+6 to 6A,Southbound,69,22:00,Sunday
+6A to 7,Northbound,62,22:00,Sunday
+6A to 7,Southbound,66,22:00,Sunday
+7 to 8,Northbound,57,22:00,Sunday
+7 to 8,Southbound,63,22:00,Sunday
+8 to 9,Northbound,64,22:00,Sunday
+ 8 to 9,Southbound,64,22:00,Sunday
+9 to 10,Northbound,66,22:00,Sunday
+9 to 10,Southbound,63,22:00,Sunday
+10 to 11,Northbound,48,22:00,Sunday
+10 to 11,Southbound,48,22:00,Sunday
+11 to 11A,Northbound,48,22:00,Sunday
+11 to 11A,Southbound,44,22:00,Sunday
+11A to 12,Northbound,48,22:00,Sunday
+11A to 12,Southbound,46,22:00,Sunday
+12 to 13,Northbound,49,22:00,Sunday
+12 to 13,Southbound,47,22:00,Sunday
+13 to14,Northbound,64,22:00,Sunday
+13 to14,Southbound,60,22:00,Sunday
+14 to 15,Northbound,64,22:00,Sunday
+14 to15,Southbound,70,22:00,Sunday
+15 to 15A,Northbound,70,22:00,Sunday
+15 to 15A,Southbound,70,22:00,Sunday
+15A to 16,Northbound,67,22:00,Sunday
+15A to 16,Southbound,68,22:00,Sunday
+16 to 17,Northbound,69,22:00,Sunday
+16 to 17,Southbound,68,22:00,Sunday
+17 to 18,Northbound,69,22:00,Sunday
+17 to 18,Southbound,66,22:00,Sunday
+18 to 19,Northbound,69,22:00,Sunday
+18 to 19,Southbound,61,22:00,Sunday
+19 to 20,Northbound,68,22:00,Sunday
+19 to 20,Southbound,65,22:00,Sunday
+20 to 21,Northbound,70,22:00,Sunday
+20 to 21,Southbound,70,22:00,Sunday
+21 to 21A,Northbound,68,22:00,Sunday
+21 to 21A,Southbound,70,22:00,Sunday
+21A to 22,Northbound,70,22:00,Sunday
+21A to 22,Southbound,59,22:00,Sunday
+22 to 23,Northbound,70,22:00,Sunday
+22 to 23,Southbound,55,22:00,Sunday
+23 to 23A,Northbound,68,22:00,Sunday
+23 to 23A,Southbound,62,22:00,Sunday
+23A to 24,Northbound,66,22:00,Sunday
+23A to 24,Southbound,70,22:00,Sunday
+24 to 24A,Northbound,70,22:00,Sunday
+24 to 24A,Southbound,67,22:00,Sunday
+24A to 25,Northbound,68,22:00,Sunday
+24A to 25,Southbound,70,22:00,Sunday
+25 to 26,Northbound,70,22:00,Sunday
+25 to 26,Southbound,70,22:00,Sunday
+26 to 27,Northbound,70,22:00,Sunday
+26 to 27,Southbound,70,22:00,Sunday
+27 to 28,Northbound,70,22:00,Sunday
+27 to 28,Southbound,69,22:00,Sunday
+28 to 29,Northbound,70,22:00,Sunday
+28 to 29,Southbound,70,22:00,Sunday
+29 to 29A,Northbound,69,22:00,Sunday
+29 to 29A,Southbound,66,22:00,Sunday
+29A to 30,Northbound,49,22:00,Sunday
+29A to 30,Southbound,52,22:00,Sunday
+30 to 31,Northbound,53,22:00,Sunday
+30 to 31,Southbound,49,22:00,Sunday
+31 to 32,Northbound,70,22:00,Sunday
+31 to 32,Southbound,50,22:00,Sunday
+32 to 33,Northbound,51,22:00,Sunday
+32 to 33,Southbound,50,22:00,Sunday
+33 to 34,Northbound,50,22:00,Sunday
+33 to 34,Southbound,49,22:00,Sunday
+34 to 35,Northbound,50,22:00,Sunday
+34 to 35,Southbound,48,22:00,Sunday
+35 to 35A,Northbound,65,22:00,Sunday
+35 to 35A,Southbound,50,22:00,Sunday
+35A to 36,Northbound,68,22:00,Sunday
+35A to 36,Southbound,70,22:00,Sunday
+36 to 37,Northbound,68,22:00,Sunday
+36 to 37,Southbound,70,22:00,Sunday
+37 to 38,Northbound,70,22:00,Sunday
+37 to 38,Southbound,70,22:00,Sunday
+38 to 39,Northbound,70,22:00,Sunday
+38 to 39,Southbound,70,22:00,Sunday
+39 to 40,Northbound,70,22:00,Sunday
+39 to 40,Southbound,67,22:00,Sunday
+40 to 41,Northbound,47,22:00,Sunday
+40 to 41,Southbound,69,22:00,Sunday
+41 to 42,Northbound,66,22:00,Sunday
+41 to 42,Southbound,63,22:00,Sunday
+42 to 43/44,Northbound,69,22:00,Sunday
+42 to 43/44,Southbound,70,22:00,Sunday
+43/44 to 45,Northbound,65,22:00,Sunday
+43/44 to 45,Southbound,70,22:00,Sunday
+45 to 46,Northbound,54,22:00,Sunday
+45 to 46,Southbound,59,22:00,Sunday
+46 to 47,Northbound,49,22:00,Sunday
+46 to 47,Southbound,48,22:00,Sunday
+47 to 48,Northbound,54,22:00,Sunday
+47 to 48,Southbound,51,22:00,Sunday
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
